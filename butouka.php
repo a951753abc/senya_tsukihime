@@ -308,7 +308,7 @@
                         
                       
                             <!-- 分類 -->
-                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">進攻／近戰</div>
+                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">準備階段</div>
                             <br/>
                             
                             <!-- 代價 -->
@@ -316,7 +316,7 @@
                             <br/>
                                             
                             <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">成功時上升2</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -326,7 +326,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>你命中的會心下降《１》。</p>
+                            <p class="skillFunction"><b>効果：</b>通過一個目標值為10的2D6+【武鬥家等級】判定。成功則你本回合判定會心下降《１》，全判定上升1，傷害增加《【你的武鬥家等級】》。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -360,7 +360,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>實傷後效果，對手下次的攻擊對象只能以你為目標。</p>
+                            <p class="skillFunction"><b>効果：</b>實傷後效果，對手下回合結束前不能離開此區域。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -376,7 +376,7 @@
                         
                       
                             <!-- 分類 -->
-                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">進攻／近戰</div>
+                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">準備階段</div>
                             <br/>
                             
                             <!-- 代價 -->
@@ -394,7 +394,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>你的傷害增加《１Ｄ６》。</p>
+                            <p class="skillFunction"><b>効果：</b>通過一個目標值為10的2D6+【武鬥家等級】判定。成功則你本回合傷害增加《１Ｄ６》。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -624,7 +624,7 @@
                         <!-- 特技設定 -->                    
                       
                             <!-- 分類 -->
-                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">進攻／共通</div>
+                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通用</div>
                             <br/>
                             
                             <!-- 代價 -->
@@ -642,7 +642,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>此次攻擊因為對手技能而進入反擊處理時，你可以跳過命中過程，直接擲傷害骰給予對手傷害。<br>
+                            <p class="skillFunction"><b>効果：</b>通過一個目標值為12的2D6+【武鬥家等級】判定。此次攻擊因為對手技能而進入反擊處理時，你可以跳過命中過程，直接擲傷害骰給予對手傷害。<br>
 			    在這之後若對手未進入行動不能狀態，你也受到對手攻擊傷害。</p>
                             
                         <!-- 結尾 -->    
@@ -659,7 +659,7 @@
                         <!-- 特技設定 -->                    
                       
                             <!-- 分類 -->
-                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">進攻／近戰</div>
+                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通用</div>
                             <br/>
                             
                             <!-- 代價 -->
@@ -677,7 +677,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>你的蛇咬與滲透勁於實傷階段給予對手《２Ｄ６》傷害。</p>
+                            <p class="skillFunction"><b>効果：</b>通過一個目標值為12的2D6+【武鬥家等級】判定。成功後蛇咬與滲透勁於實傷階段給予對手《２Ｄ６》傷害。</p>
                             
                         <!-- 結尾 -->  
                             
@@ -713,7 +713,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>你的破打使對象變成行動完成的狀態時，追加《４Ｄ６》傷害。</p>
+                            <p class="skillFunction"><b>効果：</b>你的破打使對象變成行動完成的狀態時，追加《４Ｄ６》傷害，並可以使對象強制移動到相鄰區域。</p>
                             
                         <!-- 結尾 -->   
                                                
@@ -730,7 +730,7 @@
                         
                       
                             <!-- 分類 -->
-                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">進攻／近戰</div>
+                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通用</div>
                             <br/>
                             
                             <!-- 代價 -->
@@ -748,7 +748,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>實傷後效果。對象下一次迴避判定時達成值－《４》。</p>
+                            <p class="skillFunction"><b>効果：</b>通過一個目標值為12的2D6+【武鬥家等級】判定。實傷後效果。對象下一次迴避判定時達成值－《４》。</p>
                             
                         <!-- 結尾 -->    
                                               
@@ -765,7 +765,7 @@
                         
                       
                             <!-- 分類 -->
-                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">進攻／共通</div>
+                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通用</div>
                             <br/>
                             
                             <!-- 代價 -->
@@ -783,7 +783,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>此次攻擊因為對手技能而進入反擊處理時，你可以選擇降低《2D6》傷害而迴避對手的反擊。對方的待機狀態並不會因此解除。</p>
+                            <p class="skillFunction"><b>効果：</b>通過一個目標值為12的2D6+【武鬥家等級】判定。此次攻擊因為對手技能而進入反擊處理時，你可以選擇降低《2D6》傷害而迴避對手的反擊。對方的待機狀態並不會因此解除。</p>
                             
                         <!-- 結尾 -->     
                                              

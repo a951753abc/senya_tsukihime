@@ -144,16 +144,16 @@
                   </tr>
                   <tr>
                     <td width=20% bgcolor="#222"><font color="#FFF">生命力</font></td>
+                    <td>-1</td>
                     <td>0</td>
                     <td>3</td>
+                    <td>6</td>
+                    <td>10</td>
                     <td>12</td>
+                    <td>14</td>
+                    <td>16</td>
                     <td>18</td>
-                    <td>21</td>
-                    <td>24</td>
-                    <td>27</td>
-                    <td>30</td>
-                    <td>33</td>
-                    <td>36</td>
+                    <td>20</td>
                   </tr>
                   <tr>
                     <td width=20% bgcolor="#222"><font color="#FFF">集中力</font></td>
@@ -331,6 +331,44 @@
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
                             你以外的角色為對象。對象在進行命中判定後使用。該達成值上升《１Ｄ６》。使用這個特技後，你的行動點－５。 
+                            </p>
+                            
+                        <!-- 結尾 -->     
+                    </div>
+                </skillbox>
+
+                <skillbox>
+                <!-- 特技框架 -->
+                    <div class="skillWrap">
+                    
+                        <!-- 特技名稱 -->
+                        <h3 class="skillTitle">制壓射擊</h3>
+                        
+                        <!-- 特技設定 -->
+                        
+                      
+                            <!-- 分類 -->
+                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">特殊</div>
+                            <br/>
+                            
+                            <!-- 代價 -->
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">─</div>
+                            <br/>
+                                            
+                            <!-- 情緒獎勵 -->
+                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                            <br/>
+                            
+                            <!-- 取得限制 -->
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
+                            <br/>
+                        
+                        <!-- 特技解說 -->
+                        
+                            <!-- 效果 -->
+                            <p class="skillFunction"><b>効果：</b>
+                            你所在區域有新的使役魔、召喚物、敵人登場時，無視原先的行動序列立刻攻擊該對象，之後行動點數－１０。  <BR>
+                            宣言制壓射擊的攻擊不能宣言分類：進攻的特技。行動點數不足１０的話不能宣言。
                             </p>
                             
                         <!-- 結尾 -->     
@@ -580,7 +618,7 @@
                         
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
-                            	防禦時，無論攻擊側使用什麼你都能使用《【射擊】-4》進行迴避判定。
+                            	防禦時，無論攻擊側使用什麼你都能使用《【射擊】-2》進行迴避判定。
                             </p>
                             
                         <!-- 結尾 -->     
