@@ -1,0 +1,266 @@
+@charset "utf-8";
+
+/* ===== universal reset =========== */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+/* ===== body and base setting ===== */
+
+body {
+	font-family: "微軟正黑體", "Microsoft JhengHei UI", "新細明體";
+	font-size:76%;  
+	line-height: 1.8;
+	background: #aaa;
+}
+
+#container
+{
+	margin: 0 auto;
+	width: 900px;
+	background: #FFF;
+}
+
+#title {
+	height: auto;
+	width: auto;
+	
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 40px;
+	
+	color: #FFF;
+	background-color: #222;	
+	font-size: 24px;	
+}
+
+#choice {
+	height: auto;
+	width: auto;
+	
+	padding-top: 5px;
+	padding-right: 20px;
+	padding-bottom: 5px;
+	padding-left: 80px;
+	
+	color: #FFF;
+	background-color: #666;	
+}
+
+#choice h1 {
+	font-size: 12px;
+	clear: left;
+}
+
+#description {
+	height: auto;
+	width: auto;
+	
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 40px;	
+}
+
+#description h1 {
+	font-size: 16px;
+	margin: 5px;
+	clear: left;
+}
+
+#description h2 {
+	margin: 10px;
+	font-size: 12px;
+	padding-left: 15px;
+}
+
+#description skillbox {
+	float: left;
+	padding: 15 15 15 15px;	
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+hr.description {
+	clear: left;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
+	border:none;
+	border-top:dotted 1px #666;
+	height:1px;
+	color:#FFFFFF;
+}
+
+#clearleft {
+  clear:left;
+} 
+
+a {
+    color: #FFF;
+}
+
+/* ===== Skill Popup =========== */
+
+div.skillWrap {
+	border: solid 2px #222;
+	height: auto;
+	width: 330px;
+	margin: 0px;
+	min-height: 300px;
+}
+
+div.skillWrap_dividepoint {
+	border: solid 2px #222;
+	height: auto;
+	width: 700px;
+	margin: 0px;
+}
+
+h3.skillTitle {
+	color:#fff;
+	background-color:#222;
+	padding:5px;
+}
+
+ul.skillTags {
+	color:#fff;
+	background-color:#222;
+	padding: 0 5px 5px 5px;
+}
+
+ul.skillTags li {
+	display:inline-block;
+}
+
+ul.skillTags li.skillType {
+	border:solid 1px #fff;
+	letter-spacing: 0.8em;
+	padding:0 0 0 0.8em;
+}
+
+ul.skillTags li.skillTag {
+	border:solid 1px #fff;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	background-color:#fff;
+	color:#000;
+	margin:0 1px;
+	padding:1px 3px 0 3px;
+	font-size:11px;
+}
+
+div.skillTh {
+	display:inline-block;
+	margin:5px 0 0 5px;
+	padding:0 3px;
+	border:solid 1px #666;
+	background-color:#666;
+	color:#ffffff;
+	min-width:40px;
+	text-align:center;
+}
+
+div.skillTh2 {
+	display:inline-block;
+	margin:5px 0 0 5px;
+	padding:0 3px;
+	border:solid 1px #666;
+	background-color:#666;
+	color:#ffffff;
+	min-width:70px;
+	text-align:center;
+}
+
+div.skillTd {
+	display:inline-block;
+	margin:5px 0 0 0;
+	border:solid 1px #666;
+	padding:0 3px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-bottomright: 5px;
+	min-width:100px;
+}
+
+div.skillTd_dividepoint {
+	display:inline-block;
+	margin:5px 0 0 0;
+	border:solid 1px #666;
+	padding:0 3px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-bottomright: 5px;
+	min-width:700px;
+}
+
+div.skillTd2 {
+	display:inline-block;
+	margin:5px 0 0 0;
+	border:solid 1px #666;
+	padding:0 3px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-bottomright: 5px;
+	min-width:70px;
+}
+
+div.skillTd3 {
+	display:inline-block;
+	margin:5px 0 0 0;
+	border:solid 1px #666;
+	padding:0 3px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-bottomright: 5px;
+	min-width:235px;
+}
+
+p.skillFunction {
+	margin:8px 5px;
+}
+
+p.skillcontext_title {
+	margin:8px 5px;
+}
+
+p.skillcontext {
+	margin:8px 5px;
+}
+
+span.itemRank {
+	font-size:11px;
+}
+
+hr.skillHr {
+	border:none;
+	border-top:dotted 1px #666;
+	height:1px;
+	color:#FFFFFF;
+	margin:5px;
+}
+
+li.subJob {
+	width:110px;
+}
+#container #description h2 table {
+	text-align: center;
+}
