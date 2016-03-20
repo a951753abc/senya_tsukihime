@@ -92,15 +92,15 @@
                 </tr>
                 <tr>
                     <td width=20% bgcolor="#222"><font color="#FFF">近戰</font></td>
+                    <td>-1</td>
+                    <td>0</td>
                     <td>1</td>
-                    <td>2</td>
                     <td>3</td>
-                    <td>4</td>
-                    <td>6</td>
+                    <td>5</td>
                     <td>7</td>
-                    <td>8</td>
                     <td>9</td>
                     <td>10</td>
+                    <td>11</td>
                     <td>12</td>
                 </tr>
                 <tr>
@@ -134,12 +134,12 @@
                     <td>0</td>
                     <td>1</td>
                     <td>2</td>
-                    <td>3</td>
-                    <td>6</td>
+                    <td>5</td>
                     <td>8</td>
-                    <td>10</td>
-                    <td>12</td>
+                    <td>11</td>
+                    <td>13</td>
                     <td>14</td>
+                    <td>15</td>
                     <td>16</td>
                 </tr>
                 <tr>
@@ -413,7 +413,7 @@
                 <!-- 效果 -->
                 <p class="skillFunction"><b>効果：</b>
                     和無名劍特技『年端』或『殘月』組合使用。 <BR>
-                    實際傷害後效果。對宣言攻擊的對象(非實際傷害的對象)追加一回普通攻擊。 <BR>
+                    實際傷害後效果。對宣言攻擊的對象(非實際傷害的對象)追加一回傷害2D6的攻擊。 <BR>
                     命中處理時防禦側只能用【近戰】和你進行對決，此效果優先於其他改變防禦判定方式的特技。 <BR>
                     傷害處理結束前，防禦側不能宣言分類：中斷、防守、反擊的特技。 <BR>
                     追加1個Cost則延續殘月的追加傷害效果。 <BR>
@@ -751,7 +751,7 @@
                 <br/>
 
                 <!-- 代價 -->
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">行動點數15，或2Cost</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">行動點數20，或2Cost</div>
                 <br/>
 
                 <!-- 情緒獎勵 -->
@@ -790,7 +790,7 @@
                 <br/>
 
                 <!-- 代價 -->
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">行動點數15，或2Cost</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">行動點數10，或1Cost</div>
                 <br/>
 
                 <!-- 情緒獎勵 -->
@@ -798,7 +798,7 @@
                 <br/>
 
                 <!-- 取得限制 -->
-                <div class="skillTh2">取得限制</div><div class="skillTd3">特技「神無」、「神有」取得、無名劍等級6以上</div>
+                <div class="skillTh2">取得限制</div><div class="skillTd3">「神無」、「神有」取得、無名劍等級6以上</div>
                 <br/>
 
                 <!-- 特技解說 -->
@@ -911,7 +911,7 @@
                 <br/>
 
                 <!-- 取得限制 -->
-                <div class="skillTh2">取得限制</div><div class="skillTd3">特技「年端」、「殘月」取得、無名劍等級4以上</div>
+                <div class="skillTh2">取得限制</div><div class="skillTd3">「年端」、「殘月」取得、無名劍等級4以上</div>
                 <br/>
 
                 <!-- 特技解說 -->
