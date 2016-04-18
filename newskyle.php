@@ -771,7 +771,7 @@
                 <br/>
                 <div class="skillTh2 clear">級別限制</div><div class="skillTd3">無名劍</div>
                 <br/>
-                <div class="skillTh2">獲得感情</div><div class="skillTd3">自我認識(</div>
+                <div class="skillTh2">獲得感情</div><div class="skillTd3">自我認識</div>
                 <br/>
                 <div class="skillTh2">代表角色</div><div class="skillTd3">我孫子篠</div>
                 <br/>
@@ -798,7 +798,7 @@
                 <br/>
                 <div class="skillTh2 clear">級別限制</div><div class="skillTd3">策士或忍者</div>
                 <br/>
-                <div class="skillTh2">獲得感情</div><div class="skillTd3">責任(</div>
+                <div class="skillTh2">獲得感情</div><div class="skillTd3">責任</div>
                 <br/>
                 <div class="skillTh2">代表角色</div><div class="skillTd3">無</div>
                 <br/>
