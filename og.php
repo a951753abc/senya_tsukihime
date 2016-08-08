@@ -32,7 +32,7 @@
         <h2>
             古神道，也就是日本獨有的魔術系統──<br>
             這塊土地上的神術使，早在明治維新過後就衰落了；跟魔術比起來，已式微的古神道僅存五家名門。<br>
-            在與教會、協會的聯盟作戰中更是因古神道出現大量叛徒，導致付出慘動代價。 <BR>
+            在與教會、協會的聯盟作戰中更是因古神道出現大量叛徒，導致付出慘痛代價。 <BR>
             現在除了五名門之外的神道人士再也無法站上檯面。 <BR>
         </h2>
     </div>
@@ -80,17 +80,17 @@
         <h2>
             <table width="500" border="1" cellspacing="0" cellpadding="0">
                 <tr>
-                    <td width=20% bgcolor="#222"><font color="#FFF">等級</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">1</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">2</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">3</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">4</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">5</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">6</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">7</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">8</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">9</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">10</font></td>
+                    <td width=20% bgcolor="#222"><span style="color: #FFF; ">等級</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">1</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">2</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">3</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">4</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">5</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">6</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">7</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">8</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">9</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">10</span></td>
                 </tr>
                 <tr>
                     <td width=20% bgcolor="#222"><font color="#FFF">近戰</font></td>
@@ -254,7 +254,7 @@
                 <p class="skillFunction">
                     <b>効果：</b>
                     你的古神道等級必須超過其他級別。 <BR>
-                    你的「陰陽道」技能+1，《》內的數值+1。 <BR>
+                    你的最大HP、TP+10，「陰陽道」技能+1，《》內的數值+1。戰鬥以外的判定常時+1。 <BR>
 
                 </p>
                 <!-- 結尾 -->
