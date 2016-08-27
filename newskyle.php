@@ -809,7 +809,59 @@
                 </p>
             </div>
         </skillbox>
-
+        <skillbox>
+            <div class="skillWrap_dividepoint">
+                <h3 class="skillTitle">阿芙蘿黛蒂的祝福</h3>
+                <p class="skillFunction">
+                    <b class="italic">
+                        阿芙蘿黛蒂，雙魚座的守護神為同一化身的惡魔。<BR>
+                        自然而然散發著性的吸引力，對象不分性別。 <BR>
+                    </b>
+                </p>
+                <h3 class="skillTitle">背反律「阿斯塔洛特的誘惑」</h3>
+                <div class="skillTh clear">分類</div><div class="skillTd" style="width:630px;">常時</div>
+                <br/>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">—</div>
+                <br/>
+                <div class="skillTh2 clear">級別限制</div><div class="skillTd3"></div>
+                <br/>
+                <div class="skillTh2">獲得感情</div><div class="skillTd3"></div>
+                <br/>
+                <div class="skillTh2">代表角色</div><div class="skillTd3">無</div>
+                <br/>
+                <p class="skillFunction"><b>效果：</b>
+                    <BR>
+                    同行者和自己的潛行判定-1。<BR>
+                    比較容易通過對話取得情報，用意志作情報判定時，達成值+2。 <BR>
+                </p>
+            </div>
+        </skillbox>
+        <skillbox>
+            <div class="skillWrap_dividepoint">
+                <h3 class="skillTitle">起源：懦弱</h3>
+                <p class="skillFunction">
+                    <b class="italic">
+                        你害怕惹事生非，對於上面的人說一你絕對不敢說二。 <BR>
+                    </b>
+                </p>
+                <h3 class="skillTitle">背反律「社會的齒輪」</h3>
+                <div class="skillTh clear">分類</div><div class="skillTd" style="width:630px;">常時</div>
+                <br/>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">—</div>
+                <br/>
+                <div class="skillTh2 clear">級別限制</div><div class="skillTd3"></div>
+                <br/>
+                <div class="skillTh2">獲得感情</div><div class="skillTd3">不安</div>
+                <br/>
+                <div class="skillTh2">代表角色</div><div class="skillTd3">地球上的社畜們</div>
+                <br/>
+                <p class="skillFunction"><b>效果：</b>
+                    <BR>
+                    你在自己的感情表內記錄自己，並得到不安。<BR>
+                    你主動進行的判定減少1D6，被動進行的判定增加1D6。 <BR>
+                </p>
+            </div>
+        </skillbox>
         <div id="clearleft"></div>
     </div>
 </div>

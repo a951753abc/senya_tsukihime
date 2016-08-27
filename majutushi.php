@@ -78,20 +78,20 @@
                 <h2>
                 <table width="500" border="1" cellspacing="0" cellpadding="0">
                   <tr>
-                    <td width=20% bgcolor="#222"><font color="#FFF">等級</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">1</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">2</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">3</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">4</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">5</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">6</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">7</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">8</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">9</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">10</font></td>
+                    <td width=20% bgcolor="#222"><span style="color: #FFF; ">等級</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">1</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">2</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">3</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">4</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">5</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">6</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">7</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">8</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">9</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">10</span></td>
                   </tr>
                   <tr>
-                    <td width=20% bgcolor="#222"><font color="#FFF">近戰</font></td>
+                    <td width=20% bgcolor="#222"><span style="color: #FFF; ">近戰</span></td>
                     <td>-1</td>
                     <td>0</td>
                     <td>1</td>
@@ -104,7 +104,7 @@
                     <td>8</td>
                   </tr>
                   <tr>
-                    <td width=20% bgcolor="#222"><font color="#FFF">射擊</font></td>
+                    <td width=20% bgcolor="#222"><span style="color: #FFF; ">射擊</span></td>
                     <td>0</td>
                     <td>1</td>
                     <td>2</td>
@@ -117,7 +117,7 @@
                     <td>16</td>
                   </tr>
                   <tr>
-                    <td width=20% bgcolor="#222"><font color="#FFF">精神</font></td>
+                    <td width=20% bgcolor="#222"><span style="color: #FFF; ">精神</span></td>
                     <td>0</td>
                     <td>1</td>
                     <td>2</td>
@@ -130,7 +130,7 @@
                     <td>16</td>
                   </tr>
                   <tr>
-                    <td width=20% bgcolor="#222"><font color="#FFF">行動</font></td>
+                    <td width=20% bgcolor="#222"><span style="color: #FFF; ">行動</span></td>
                     <td>-1</td>
                     <td>0</td>
                     <td>1</td>
@@ -143,7 +143,7 @@
                     <td>8</td>
                   </tr>
                   <tr>
-                    <td width=20% bgcolor="#222"><font color="#FFF">生命力</font></td>
+                    <td width=20% bgcolor="#222"><span style="color: #FFF; ">生命力</span></td>
                     <td>0</td>
                     <td>3</td>
                     <td>9</td>
@@ -156,7 +156,7 @@
                     <td>30</td>
                   </tr>
                   <tr>
-                    <td width=20% bgcolor="#222"><font color="#FFF">集中力</font></td>
+                    <td width=20% bgcolor="#222"><span style="color: #FFF; ">集中力</span></td>
                     <td>8</td>
                     <td>11</td>
                     <td>13</td>
@@ -169,7 +169,7 @@
                     <td>30</td>
                   </tr>
                   <tr>
-                    <td width=20% bgcolor="#222"><font color="#FFF">防禦點</font></td>
+                    <td width=20% bgcolor="#222"><span style="color: #FFF; ">防禦點</span></td>
                     <td>0</td>
                     <td>0</td>
                     <td>0</td>
@@ -598,7 +598,7 @@
                         
                       
                             <!-- 分類 -->
-                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">進攻類型／射擊</div>
+                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">攻擊類型／射擊</div>
                             <br/>
                             
                             <!-- 代價 -->
@@ -1362,7 +1362,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>當你死亡時，於下一個場景復活。戰鬥中死亡的時候，在三回合後復活。
+                            <p class="skillFunction"><b>効果：</b>一劇本一次，當你死亡時，於下一個場景復活，戰鬥中在三回合後復活。
                             </p>
                             
                         <!-- 結尾 -->     
@@ -1831,4 +1831,3 @@
             </div>            
         </div>        
     </body>
-</html>

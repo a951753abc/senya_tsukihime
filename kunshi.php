@@ -79,33 +79,20 @@
                 <h2>
                 <table width="500" border="1" cellspacing="0" cellpadding="0">
                   <tr>
-                    <td width=20% bgcolor="#222"><font color="#FFF">等級</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">1</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">2</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">3</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">4</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">5</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">6</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">7</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">8</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">9</font></td>
-                    <td width=8% bgcolor="#666"><font color="#FFF">10</font></td>
+                    <td width=20% bgcolor="#222"><span style="color: #FFF; ">等級</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">1</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">2</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">3</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">4</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">5</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">6</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">7</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">8</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">9</span></td>
+                    <td width=8% bgcolor="#666"><span style="color: #FFF; ">10</span></td>
                   </tr>
                   <tr>
-                    <td width=20% bgcolor="#222"><font color="#FFF">近戰</font></td>
-                    <td>0</td>
-                    <td>0</td>
-                    <td>0</td>
-                    <td>0</td>
-                    <td>0</td>
-                    <td>0</td>
-                    <td>0</td>
-                    <td>0</td>
-                    <td>0</td>
-                    <td>0</td>
-                  </tr>
-                  <tr>
-                    <td width=20% bgcolor="#222"><font color="#FFF">射擊</font></td>
+                    <td width=20% bgcolor="#222"><span style="color: #FFF; ">近戰</span></td>
                     <td>0</td>
                     <td>0</td>
                     <td>0</td>
@@ -118,7 +105,7 @@
                     <td>0</td>
                   </tr>
                   <tr>
-                    <td width=20% bgcolor="#222"><font color="#FFF">精神</font></td>
+                    <td width=20% bgcolor="#222"><span style="color: #FFF; ">射擊</span></td>
                     <td>0</td>
                     <td>0</td>
                     <td>0</td>
@@ -131,7 +118,7 @@
                     <td>0</td>
                   </tr>
                   <tr>
-                    <td width=20% bgcolor="#222"><font color="#FFF">行動</font></td>
+                    <td width=20% bgcolor="#222"><span style="color: #FFF; ">精神</span></td>
                     <td>0</td>
                     <td>0</td>
                     <td>0</td>
@@ -144,7 +131,7 @@
                     <td>0</td>
                   </tr>
                   <tr>
-                    <td width=20% bgcolor="#222"><font color="#FFF">生命力</font></td>
+                    <td width=20% bgcolor="#222"><span style="color: #FFF; ">行動</span></td>
                     <td>0</td>
                     <td>0</td>
                     <td>0</td>
@@ -157,7 +144,7 @@
                     <td>0</td>
                   </tr>
                   <tr>
-                    <td width=20% bgcolor="#222"><font color="#FFF">集中力</font></td>
+                    <td width=20% bgcolor="#222"><span style="color: #FFF; ">生命力</span></td>
                     <td>0</td>
                     <td>0</td>
                     <td>0</td>
@@ -170,7 +157,20 @@
                     <td>0</td>
                   </tr>
                   <tr>
-                    <td width=20% bgcolor="#222"><font color="#FFF">防禦點</font></td>
+                    <td width=20% bgcolor="#222"><span style="color: #FFF; ">集中力</span></td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <td width=20% bgcolor="#222"><span style="color: #FFF; ">防禦點</span></td>
                     <td>0</td>
                     <td>0</td>
                     <td>0</td>
@@ -296,7 +296,7 @@
                         
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
-                            	劇本開始前，你獲得等同於【策士等級】的數值。 <BR>
+                            	劇本開始前，你獲得等同於【策士等級+1】的數值。 <BR>
                             	每一點數值可以讓你在一個地區散撥一則訊息。 <BR>
                             	散撥的訊息無法被追蹤源頭。 <BR>
                             </p>
@@ -316,7 +316,7 @@
                         
                       
                             <!-- 分類 -->
-                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265;">常時</div>
+                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">常時</div>
                             <br/>
                             
                             <!-- 代價 -->
@@ -682,7 +682,7 @@
                             <br/>
                             
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">奇門遁甲、六壬神課、太乙神數</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">絕智奇才、可造之材、朽木可雕</div>
                             <br/>
                         
                         <!-- 特技解說 -->
@@ -859,4 +859,3 @@
             </div>            
         </div>        
     </body>
-</html>
