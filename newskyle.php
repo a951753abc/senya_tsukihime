@@ -68,6 +68,14 @@
                     你的【近戰】＋６。 <BR>
                     使用後，你只能使用近戰特技。這個效果持續到戰鬥結束。
                 </p>
+                <h3 class="skillTitle">起源覺醒</h3>
+                <div class="skillTh clear">條件</div><div class="skillTd" style="width:265px;">發動背反律的狀態下，殺死設有獵物的對象</div>
+                <br/>
+                <p class="skillFunction"><b>追加效果：</b>
+                    基本能力的體力常時+10(非BONUS值)。 <BR>
+                    劇本開始時，丟1D6，劇本結束前，你必須設置對應數量的獵物感情給PC或是NPC，且殺死他們。 <BR>
+                    劇本中途起源覺醒時，將該需設置的人數-1。
+                </p>
             </div>
         </skillbox>
         <skillbox>
@@ -90,6 +98,14 @@
                 <p class="skillFunction"><b>效果：</b> <BR>
                     你能加算情緒值的感情只有無關心。 但是這絆值＋１。 <BR>
                     你的傷害常時－３，但是與攻擊對象的感情並非是無關心時，全判定＋１，傷害＋１。
+                </p>
+                <h3 class="skillTitle">起源反抗</h3>
+                <div class="skillTh clear">條件</div><div class="skillTd" style="width:265px;">不限單一劇本，進行三次感情對決，轉換無關心</div>
+                <br/>
+                <p class="skillFunction"><b>追加效果：</b>
+                    你的背反律效果改為： <BR>
+                    你的判定與傷害常時+5。 <BR>
+                    你無法對人設置無關心，也無法因為感情對決而設置無關心。
                 </p>
             </div>
         </skillbox>
@@ -114,6 +130,13 @@
                     你在角色表設定一名血親角色，並且有「獨佔欲」。此絆值１０點，並且無法由感情對決消失。 <BR>
                     如果你的血親跟你都處於戰鬥場景，你的全判定＋２。如果血親死亡，你的全判定－１０。
                 </p>
+                <h3 class="skillTitle">起源覺醒</h3>
+                <div class="skillTh clear">條件</div><div class="skillTd" style="width:265px;">對血親角色獨佔欲進行感情對決</div>
+                <br/>
+                <p class="skillFunction"><b>追加效果：</b>
+                    獨佔欲的絆值從10點上升到20點，並追加「獵物」，這兩個感情無法由感情對決消失。 <BR>
+                    當你提出的要求被血親拒絕時，丟2D6，值在4以下時，你會承受不住壓力而殺死血親。
+                </p>
             </div>
         </skillbox>
         <skillbox>
@@ -135,7 +158,14 @@
                 <br/>
                 <p class="skillFunction"><b>效果：</b>
                     <BR>
-                    你在對決判定時使用，對方達成值變成０。當你變成背反者時，這個背反律一劇本可以使用三次。 <BR>
+                    你在對決判定時使用，對方達成值變成０。<BR>
+                </p>
+                <h3 class="skillTitle">起源覺醒</h3>
+                <div class="skillTh clear">條件</div><div class="skillTd" style="width:265px;">使用此背反律兩次</div>
+                <br/>
+                <p class="skillFunction"><b>追加效果：</b>
+                    除了概念武裝與上限傷害，你受到的實際傷害皆為0。 <BR>
+                    你無法再獲得經驗點。
                 </p>
             </div>
         </skillbox>
