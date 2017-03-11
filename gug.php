@@ -96,11 +96,11 @@
                     <td>2</td>
                     <td>2</td>
                     <td>3</td>
-                    <td>3</td>
-                    <td>4</td>
                     <td>4</td>
                     <td>5</td>
-                    <td>5</td>
+                    <td>6</td>
+                    <td>7</td>
+                    <td>8</td>
                 </tr>
                 <tr>
                     <td width=20% bgcolor="#222"><font color="#FFF">射擊</font></td>
@@ -109,11 +109,11 @@
                     <td>2</td>
                     <td>2</td>
                     <td>3</td>
-                    <td>3</td>
-                    <td>4</td>
                     <td>4</td>
                     <td>5</td>
-                    <td>5</td>
+                    <td>6</td>
+                    <td>7</td>
+                    <td>8</td>
                 </tr>
                 <tr>
                     <td width=20% bgcolor="#222"><font color="#FFF">精神</font></td>
@@ -122,11 +122,11 @@
                     <td>2</td>
                     <td>2</td>
                     <td>3</td>
-                    <td>3</td>
-                    <td>4</td>
                     <td>4</td>
                     <td>5</td>
-                    <td>5</td>
+                    <td>6</td>
+                    <td>7</td>
+                    <td>8</td>
                 </tr>
                 <tr>
                     <td width=20% bgcolor="#222"><font color="#FFF">行動</font></td>
@@ -136,10 +136,10 @@
                     <td>2</td>
                     <td>2</td>
                     <td>3</td>
-                    <td>3</td>
-                    <td>3</td>
                     <td>4</td>
-                    <td>4</td>
+                    <td>5</td>
+                    <td>6</td>
+                    <td>7</td>
                 </tr>
                 <tr>
                     <td width=20% bgcolor="#222"><font color="#FFF">生命力</font></td>
@@ -151,8 +151,8 @@
                     <td>13</td>
                     <td>15</td>
                     <td>18</td>
-                    <td>19</td>
-                    <td>20</td>
+                    <td>21</td>
+                    <td>24</td>
                 </tr>
                 <tr>
                     <td width=20% bgcolor="#222"><font color="#FFF">集中力</font></td>
@@ -164,8 +164,8 @@
                     <td>13</td>
                     <td>15</td>
                     <td>18</td>
-                    <td>19</td>
-                    <td>20</td>
+                    <td>21</td>
+                    <td>24</td>
                 </tr>
                 <tr>
                     <td width=20% bgcolor="#222"><font color="#FFF">防禦點</font></td>
@@ -542,6 +542,43 @@
             <div class="skillWrap">
 
                 <!-- 特技名稱 -->
+                <h3 class="skillTitle">天啟</h3>
+
+                <!-- 特技設定 -->
+
+
+                <!-- 分類 -->
+                <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通用</div>
+                <br/>
+
+                <!-- 代價 -->
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                <br/>
+
+                <!-- 情緒獎勵 -->
+                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">1D6</div>
+                <br/>
+
+                <!-- 取得限制 -->
+                <div class="skillTh2">取得限制</div><div class="skillTd3">－</div>
+                <br/>
+
+                <!-- 特技解說 -->
+
+                <!-- 效果 -->
+                <p class="skillFunction"><b>効果：</b>一劇本只能發動兩次。<br>
+                    對GM詢問一個問題，GM必須告訴你是或否。 <BR>
+                    或是重骰一個自己的判定。
+                </p>
+
+                <!-- 結尾 -->
+            </div>
+        </skillbox>
+
+        <skillbox>
+            <div class="skillWrap">
+
+                <!-- 特技名稱 -->
                 <h3 class="skillTitle">常識外的倔強</h3>
 
                 <!-- 特技設定 -->
@@ -567,6 +604,42 @@
 
                 <!-- 效果 -->
                 <p class="skillFunction"><b>効果：</b>你受到的傷害常時減輕《1》D6。以你自己為對象， 每回合結束時HP跟情緒值+《1》D6。</p>
+
+                <!-- 結尾 -->
+            </div>
+        </skillbox>
+
+        <skillbox>
+            <div class="skillWrap">
+
+                <!-- 特技名稱 -->
+                <h3 class="skillTitle">U的意志</h3>
+
+                <!-- 特技設定 -->
+
+
+                <!-- 分類 -->
+                <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">常時</div>
+                <br/>
+
+                <!-- 代價 -->
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                <br/>
+
+                <!-- 情緒獎勵 -->
+                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                <br/>
+
+                <!-- 取得限制 -->
+                <div class="skillTh2">取得限制</div><div class="skillTd3">創角時取得</div>
+                <br/>
+
+                <!-- 特技解說 -->
+
+                <!-- 效果 -->
+                <p class="skillFunction"><b>効果：</b>你的角色名稱必須有U或優字。 <BR>
+                    當你的級別只有異端時，你可以擁有兩個風格。
+                </p>
 
                 <!-- 結尾 -->
             </div>
@@ -638,15 +711,16 @@
                 <br/>
 
                 <!-- 取得限制 -->
-                <div class="skillTh2">取得限制</div><div class="skillTd3">異端LV3以上</div>
+                <div class="skillTh2">取得限制</div><div class="skillTd3">異端LV4以上</div>
                 <br/>
 
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
                 <p class="skillFunction"><b>効果：</b>一劇本只能使用一次。<br>
-                    不管種類，可以瞬間獲得一道具。如果需要職業等級以《3》計算。<br>
-                    取得的道具在換景時消失，戰鬥的話回合結束時消失。</p>
+                    當你只擁有異端級別時，可以發揮以下效果： <BR>
+                    當你受到攻擊時，可以放棄迴避骰，將受到的一半傷害隨機轉給你以外的人。 <BR>
+                </p>
 
                 <!-- 結尾 -->
 
@@ -717,7 +791,11 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>不管種類，可以入手一道具。如果需要職業等級以《3》計算。</p>
+                <p class="skillFunction"><b>効果：</b> <BR>
+                    劇本開始時，不管種類，可以入手一道具。如果需要職業等級以《3》計算。 <BR>
+                    劇本中只能使用一次，不管種類，可以瞬間獲得一道具。如果需要職業等級以《3》計算。<br>
+                    取得的道具在換景時消失，戰鬥的話回合結束時消失。
+                </p>
 
                 <!-- 結尾 -->
 
@@ -823,7 +901,50 @@
 
                 <!-- 效果 -->
                 <p class="skillFunction">
-                    <b>効果：</b>每當戰鬥開始時，丟1D6，3以下則該回合所有人行動骰完後跳過準備階段，且你本回合的判定上升1。 <BR>若否，你本回合的判定下降1。
+                    <b>効果：</b>每當戰鬥開始時，丟1D6，3以下則該回合所有人行動骰完後跳過準備階段，且你本回合的判定上升3。 <BR>
+                    若否，你本回合的判定下降1。
+                </p>
+
+                <!-- 結尾 -->
+
+            </div>
+        </skillbox>
+
+        <skillbox>
+            <div class="skillWrap">
+
+                <!-- 特技名稱 -->
+                <h3 class="skillTitle">固有結界‧ALTER</h3>
+
+                <!-- 特技設定 -->
+
+
+                <!-- 分類 -->
+                <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通用</div>
+                <br/>
+
+                <!-- 代價 -->
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">30點代價傷害</div>
+                <br/>
+
+                <!-- 情緒獎勵 -->
+                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                <br/>
+
+                <!-- 取得限制 -->
+                <div class="skillTh2">取得限制</div><div class="skillTd3">異端LV6以上</div>
+                <br/>
+
+                <!-- 特技解說 -->
+
+                <!-- 效果 -->
+                <p class="skillFunction">
+                    <b>効果：</b> <BR>
+                    戰鬥開始時，封印參加者1D3種戰鬥分類技能(依序是近戰、遠戰、共通)。<BR>
+                    封印參加者1D4種分類技能(依序是進攻、防禦、中斷、通用)。 <BR>
+                    使用被封印的分類技能時，需額外付出《你的異端等級》D6點代價傷害。<BR>
+                    每到準備階段就重新判定這回合遭到封印的技能。 <BR>
+                    這個結界可以維持你的異端等級-5回合。
                 </p>
 
                 <!-- 結尾 -->
