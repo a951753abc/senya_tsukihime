@@ -304,6 +304,81 @@
                         <!-- 結尾 -->     
                     </div>
                 </skillbox>
+
+                <skillbox>
+                    <div class="skillWrap">
+
+                        <!-- 特技名稱 -->
+                        <h3 class="skillTitle">觀察眼</h3>
+
+                        <!-- 特技設定 -->
+
+
+                        <!-- 分類 -->
+                        <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">常時</div>
+                        <br/>
+
+                        <!-- 代價 -->
+                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                        <br/>
+
+                        <!-- 情緒獎勵 -->
+                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                        <br/>
+
+                        <!-- 取得限制 -->
+                        <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
+                        <br/>
+
+                        <!-- 特技解說 -->
+
+                        <!-- 效果 -->
+                        <p class="skillFunction"><b>効果：</b>
+                            你在戰鬥以外【理智】上的判定獲得+3。 <BR>
+                            戰鬥中有人施展技能並發揮效果後，你可以得知其技能效果。 <BR>
+                            當有人受到攻擊傷害後，你可以得知其生命剩餘百分比。
+                        </p>
+
+                        <!-- 結尾 -->
+                    </div>
+                </skillbox>
+
+                <skillbox>
+                    <div class="skillWrap">
+
+                        <!-- 特技名稱 -->
+                        <h3 class="skillTitle">戰場指揮</h3>
+
+                        <!-- 特技設定 -->
+
+
+                        <!-- 分類 -->
+                        <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">準備階段</div>
+                        <br/>
+
+                        <!-- 代價 -->
+                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                        <br/>
+
+                        <!-- 情緒獎勵 -->
+                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">2</div>
+                        <br/>
+
+                        <!-- 取得限制 -->
+                        <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
+                        <br/>
+
+                        <!-- 特技解說 -->
+
+                        <!-- 效果 -->
+                        <p class="skillFunction"><b>効果：</b> <BR>
+                            在我方戰鬥成員兩名以上時可以使用。 <BR>
+                            你可以任意調配我方成員至前排與後排(須符合阻礙規則)。
+                        </p>
+
+                        <!-- 結尾 -->
+                    </div>
+                </skillbox>
                 
                 <skillbox>
                 <!-- 特技框架 -->
@@ -852,7 +927,118 @@
                             
                 </div>
                 </skillbox>
-                
+
+                <skillbox>
+                    <div class="skillWrap">
+
+                        <!-- 特技名稱 -->
+                        <h3 class="skillTitle">軍略</h3>
+
+                        <!-- 特技設定 -->
+
+
+                        <!-- 分類 -->
+                        <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通用</div>
+                        <br/>
+
+                        <!-- 代價 -->
+                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                        <br/>
+
+                        <!-- 情緒獎勵 -->
+                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                        <br/>
+
+                        <!-- 取得限制 -->
+                        <div class="skillTh2">取得限制</div><div class="skillTd3">戰場指揮</div>
+                        <br/>
+
+                        <!-- 特技解說 -->
+
+                        <!-- 效果 -->
+                        <p class="skillFunction"><b>効果：</b>
+                            準備階段時，當你位於隊伍後排時發揮效果。 <BR>
+                            我方成員判定增加《你的策士等級》。
+                        </p>
+                        <!-- 結尾 -->
+
+                    </div>
+                </skillbox>
+
+                <skillbox>
+                    <div class="skillWrap">
+
+                        <!-- 特技名稱 -->
+                        <h3 class="skillTitle">出奇不意</h3>
+
+                        <!-- 特技設定 -->
+
+
+                        <!-- 分類 -->
+                        <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">常時</div>
+                        <br/>
+
+                        <!-- 代價 -->
+                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                        <br/>
+
+                        <!-- 情緒獎勵 -->
+                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                        <br/>
+
+                        <!-- 取得限制 -->
+                        <div class="skillTh2">取得限制</div><div class="skillTd3">觀察眼</div>
+                        <br/>
+
+                        <!-- 特技解說 -->
+
+                        <!-- 效果 -->
+                        <p class="skillFunction"><b>効果：</b> <BR>
+                            戰鬥開始時，指定【你的策士等級】-2個敵方對象，並選擇一個戰鬥類型以外的技能分類。 <BR>
+                            當指定對象使用你所選擇的技能分類時，無效該技能效果。 <BR>
+                            指定對象的技能效果無效後，到戰鬥結束為止不會再無效。
+                        </p>
+
+                        <!-- 結尾 -->
+                    </div>
+                </skillbox>
+
+                <skillbox>
+                    <div class="skillWrap">
+
+                        <!-- 特技名稱 -->
+                        <h3 class="skillTitle">沙盤推演</h3>
+
+                        <!-- 特技設定 -->
+
+
+                        <!-- 分類 -->
+                        <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">準備階段</div>
+                        <br/>
+
+                        <!-- 代價 -->
+                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                        <br/>
+
+                        <!-- 情緒獎勵 -->
+                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">2</div>
+                        <br/>
+
+                        <!-- 取得限制 -->
+                        <div class="skillTh2">取得限制</div><div class="skillTd3">觀察眼</div>
+                        <br/>
+
+                        <!-- 特技解說 -->
+
+                        <!-- 效果 -->
+                        <p class="skillFunction"><b>効果：</b> <BR>
+                            指定一個敵方以及【你的策士等級】-2個我方對象。 <BR>
+                            當敵方對你指定的我方對象發動攻擊時，我方對象獲得1D6判定加值(此數值不可超過你的策士等級)。
+                        </p>
+
+                        <!-- 結尾 -->
+                    </div>
+                </skillbox>
                
                 <div id="clearleft"></div>
                 
