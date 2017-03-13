@@ -730,7 +730,7 @@
                 <h1><a id="description_skill2"></a>額外特技 <a href="#top" style="text-decoration:none;color:#000;">▲</a></h1>
 
                 <skillbox>
-                    <div class="skillWrap">
+                    <div class="skillWrap_dividepoint">
 
                         <!-- 特技名稱 -->
                         <h3 class="skillTitle">超加速</h3>
@@ -738,11 +738,11 @@
                         <!-- 特技設定 -->
 
                         <!-- 分類 -->
-                        <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">中斷</div>
+                        <div class="skillTh clear">分類</div><div class="skillTd" style="width:630px;">中斷</div>
                         <br/>
 
                         <!-- 代價 -->
-                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害20點</div>
+                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">代價傷害20點</div>
                         <br/>
 
                         <!-- 情緒獎勵 -->
@@ -750,7 +750,7 @@
                         <br/>
 
                         <!-- 取得限制 -->
-                        <div class="skillTh2">取得限制</div><div class="skillTd3">左道等級3以上。</div>
+                        <div class="skillTh2">取得限制</div><div class="skillTd3">左道等級3以上</div>
                         <br/>
 
                         <!-- 特技解說 -->
@@ -761,14 +761,13 @@
                             戰鬥中你可以從任意區域對敵方後排進行攻擊，並在攻擊結束後回到任意區域。 <BR>
                             如你在相同場景但不在戰鬥之中，你可以立刻加入戰鬥對敵方後排進行攻擊，並在攻擊結束後回到任意區域。 <BR>
                             如須判定距離，原則上為一次行動能移動的距離，如有取得立體地圖，移動距離為兩倍。
-
                         </p>
 
                         <!-- 結尾 -->
 
                     </div>
                 </skillbox>
-                
+
                 <skillbox>
                     <div class="skillWrap">
                     
