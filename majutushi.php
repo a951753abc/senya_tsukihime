@@ -258,7 +258,7 @@
                         
                             <!-- 效果 -->
                             <p class="skillFunction">
-                            	<b>効果：</b>在你行為判定之後使用，達成值＋１Ｄ６，使用後行動值－４。
+                            	<b>効果：</b>在你行為判定之後使用，達成值＋１Ｄ６(這個數值不能超過你的魔術師等級)，使用後行動值－４。
             				</p>
                             
                         <!-- 結尾 -->                        
@@ -267,40 +267,87 @@
                 
                 <skillbox>
                     <div class="skillWrap">
-                    
                         <!-- 特技名稱 -->
                         <h3 class="skillTitle">靈子光纖</h3>
-                        
                         <!-- 特技設定 -->
-                        
-                      
                             <!-- 分類 -->
                             <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">攻擊類型／射擊</div>
                             <br/>
-                            
                             <!-- 代價 -->
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害2</div>
                             <br/>
-                                            
                             <!-- 情緒獎勵 -->
                             <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
                             <br/>
-                            
                             <!-- 取得限制 -->
                             <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
                             <br/>
-                        
                         <!-- 特技解說 -->
-                        
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
-                            	指定一對象，給予２Ｄ６傷害，該對象有著不良狀態「鎖定」時，你的命中判定＋４，會心－１。受到這個特技實傷的對象，獲得不良狀態「鎖定」。
+                            	指定一對象給予２Ｄ６傷害，命中後對象獲得不良狀態「鎖定」。 <BR>
+                                此不良狀態可以疊加。
+                                【鎖定】：當你受到來自鎖定者的攻擊時，鎖定者的命中判定+3，會心-1。
                             </p>
                             
                         <!-- 結尾 -->     
                     </div>
                 </skillbox>
-                
+                <skillbox>
+                    <div class="skillWrap">
+                        <!-- 特技名稱 -->
+                        <h3 class="skillTitle">靈子標記</h3>
+                        <!-- 特技設定 -->
+                        <!-- 分類 -->
+                        <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">準備階段</div>
+                        <br/>
+                        <!-- 代價 -->
+                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害5</div>
+                        <br/>
+                        <!-- 情緒獎勵 -->
+                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                        <br/>
+                        <!-- 取得限制 -->
+                        <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
+                        <br/>
+                        <!-- 特技解說 -->
+                        <!-- 效果 -->
+                        <p class="skillFunction"><b>効果：</b>
+                            指定一對象給予不良狀態「鎖定」。
+                            【鎖定】：當你受到來自鎖定者的攻擊時，鎖定者的命中判定+3，會心-1。
+                        </p>
+
+                        <!-- 結尾 -->
+                    </div>
+                </skillbox>
+                <skillbox>
+                    <div class="skillWrap">
+                        <!-- 特技名稱 -->
+                        <h3 class="skillTitle">靈子散射</h3>
+                        <!-- 特技設定 -->
+                        <!-- 分類 -->
+                        <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">進攻／通常</div>
+                        <br/>
+                        <!-- 代價 -->
+                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">─</div>
+                        <br/>
+                        <!-- 情緒獎勵 -->
+                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                        <br/>
+                        <!-- 取得限制 -->
+                        <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
+                        <br/>
+                        <!-- 特技解說 -->
+                        <!-- 效果 -->
+                        <p class="skillFunction"><b>効果：</b>
+                            本次攻擊的對象成為所有遭受你鎖定之人。 <BR>
+                            鎖定對象每增加1人，傷害減少1D6(不會減少到2D6以下)。
+                        </p>
+
+                        <!-- 結尾 -->
+                    </div>
+                </skillbox>
+
                 <skillbox>
                 <!-- 特技框架 -->
                     <div class="skillWrap_dividepoint">
@@ -316,7 +363,7 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">代價傷害20點</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">代價傷害15點</div>
                             <br/>
                                             
                             <!-- 情緒獎勵 -->
@@ -378,41 +425,42 @@
                         <!-- 結尾 -->     
                     </div>
                 </skillbox>
-                
-                <skillbox>
-                    <div class="skillWrap">
-                    
+
+<!--                <skillbox>-->
+<!--                    <div class="skillWrap">-->
+
                         <!-- 特技名稱 -->
-                        <h3 class="skillTitle">投影</h3>
-                        
+<!--                        <h3 class="skillTitle">投影</h3>-->
+
                         <!-- 特技設定 -->
-                        
-                      
+
+
                             <!-- 分類 -->
-                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">準備階段</div>
-                            <br/>
-                            
+<!--                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">準備階段</div>-->
+<!--                            <br/>-->
+
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害6</div>
-                            <br/>
-                                            
+<!--                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害6</div>-->
+<!--                            <br/>-->
+
                             <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
-                            <br/>
-                            
+<!--                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>-->
+<!--                            <br/>-->
+
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
-                            <br/>
-                        
+<!--                            <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>-->
+<!--                            <br/>-->
+
                         <!-- 特技解說 -->
-                        
+
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>以你一個「特殊屬性」為對象，物質化《１》個。因為此效果物質化的物品，結束階段消失。
-                            </p>
-                            
-                        <!-- 結尾 -->     
-                    </div>
-                </skillbox>
+<!--                            <p class="skillFunction"><b>効果：</b>-->
+<!--                                以你一個「特殊屬性」為對象，物質化《１》個。因為此效果物質化的物品，結束階段消失。-->
+<!--                            </p>-->
+
+                        <!-- 結尾 -->
+<!--                    </div>-->
+<!--                </skillbox>-->
                 
                 <skillbox>
                     <div class="skillWrap">
@@ -428,7 +476,7 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害4</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害5</div>
                             <br/>
                                             
                             <!-- 情緒獎勵 -->
@@ -710,7 +758,7 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害10</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">一個人偶代價傷害10</div>
                             <br/>
                                             
                             <!-- 情緒獎勵 -->
@@ -725,7 +773,9 @@
                         
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
-                            	你製造一體人偶，能力為「護法」。戰鬥中無法使用，一天只能製造一體。
+                                劇本開始時，你獲得【魔術師等級】/3個人偶。 <BR>
+                            	你可以使用此技能製造一體人偶，戰鬥中無法使用，一天只能製造【魔術師等級】/3個人偶。 <BR>
+                                當你戰鬥中受到攻擊時，你可以選擇是否要讓人偶抵擋傷害，每一個人偶可以減輕10+【魔術師等級】點傷害，人偶會在抵擋後損毀。 <BR>
                             </p>
                             
                         <!-- 結尾 -->     
@@ -746,7 +796,7 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害20</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害10</div>
                             <br/>
                                             
                             <!-- 情緒獎勵 -->
@@ -761,11 +811,50 @@
                         
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
-                            	以你製造的人偶《１》體為對象，讓它進行一次攻擊，之後破棄。 <BR>
-                                ※不會因為其他特技效果而復活
+                            	破壞1個人偶後發動。 <BR>
+                                指定一對象，對該對象進行一次遠戰攻擊，傷害為10+【魔術師等級】+2D6。 <BR>
+                                當你命中失敗時，可以追加破壞一個人偶，繼續進行攻擊。
                             </p>
                             
                         <!-- 結尾 -->     
+                    </div>
+                </skillbox>
+
+                <skillbox>
+                    <div class="skillWrap">
+
+                        <!-- 特技名稱 -->
+                        <h3 class="skillTitle">攻擊式</h3>
+
+                        <!-- 特技設定 -->
+
+
+                        <!-- 分類 -->
+                        <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">攻擊類型／遠戰</div>
+                        <br/>
+
+                        <!-- 代價 -->
+                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害2</div>
+                        <br/>
+
+                        <!-- 情緒獎勵 -->
+                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                        <br/>
+
+                        <!-- 取得限制 -->
+                        <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
+                        <br/>
+
+                        <!-- 特技解說 -->
+
+                        <!-- 效果 -->
+                        <p class="skillFunction"><b>効果：</b>
+                            你每有一個人偶，便可以指定一個對象造成1D6傷害。 <BR>
+                            你最多可以命令【你的魔術師等級】個人偶，同時對單一對象攻擊。 <BR>
+                            每多一個人偶進行攻擊，命中上升1(這個值不能超過你的魔術師等級)。
+                        </p>
+
+                        <!-- 結尾 -->
                     </div>
                 </skillbox>
 
@@ -798,7 +887,7 @@
                         
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
-                            	你可以 在物品上刻上盧文字，使其賦予你習得的盧文字效果。你的一個基本能力值+3。戰鬥中使用時，需耗費主行動。 <BR>
+                            	你可以在物品上刻上盧文字，使其賦予你習得的盧文字效果。你的一個基本能力值+3。戰鬥中使用時，需耗費主行動。 <BR>
                                 習得此技能的同時，你可以再獲得一個非額外特技的「○○盧文」特技。
                             </p>
                             
@@ -1236,7 +1325,7 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害120點</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害20點</div>
                             <br/>
                                             
                             <!-- 情緒獎勵 -->
@@ -1251,7 +1340,7 @@
                         
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
-                            搭配咒怨彈使用，此次傷害增加《５Ｄ６》，實傷後效果，對手成為行動不能狀態。
+                            搭配咒怨彈使用，此次傷害增加《５Ｄ６》，實傷後效果，當對手因此次攻擊HP至0以下時，直接死亡。
                             </p>
                             
                         <!-- 結尾 -->  
@@ -1274,7 +1363,7 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害100點，待機延遲10點</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害30點，待機延遲10點</div>
                             <br/>
                                             
                             <!-- 情緒獎勵 -->
@@ -1326,7 +1415,8 @@
                         
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
-                            	你每日能製造的人偶成為兩體，你的人偶製成能夠成為「龍牙兵」或是「鬼神」或是「闇之獸」或是「憎惡之影」。
+                            	你每日能製造的人偶數目+1。 <BR>
+                                你的人偶抵擋傷害成為15+【魔術師等級】點。
                             </p>
                             
                         <!-- 結尾 -->    
@@ -1399,7 +1489,13 @@
                         
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
-                            	你能召喚一體「異界之獸」或是「異界的甲殼」。使役物和你同區域登場。
+                            	你能召喚一體「異界之獸」。
+                                召喚異界之獸時，你的行動點數增加1D6，並從以下效果選擇一個發動： <BR>
+                                1.指定一對象，造成的傷害增加2D6。 <BR>
+                                2.指定一對象防禦增加【你的魔術師等級】點。 <BR>
+                                3.指定一對象，恢復他3D6HP。 <BR>
+                                每多付20點代價傷害，你便可以多選擇一個效果。 <BR>
+                                異界之獸的效果會在回合結束時消失。
                             </p>
                             
                         <!-- 結尾 -->  
@@ -1538,7 +1634,7 @@
                             <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
                             <br/>
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">靈子光纖、思考的並列演算3以上</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">靈子光纖、思考的並列演算</div>
                             <br/>
                         
                         <!-- 特技解說 -->
