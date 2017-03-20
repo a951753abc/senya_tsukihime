@@ -497,7 +497,7 @@
                 <br/>
                 <div class="skillTh2">獲得感情</div><div class="skillTd3">無</div>
                 <br/>
-                <div class="skillTh2">代表角色</div><div class="skillTd3">弓月侑希</div>
+                <div class="skillTh2">代表角色</div><div class="skillTd3">黃魟</div>
                 <br/>
                 <p class="skillFunction"><b>效果：</b>
                     <BR>
@@ -563,6 +563,14 @@
                     你每天開始的時候都會丟一個1D6，如果丟出3以下表示感覺今天一切順利、丟出4以上表示你感覺今天一切都很不順。 <BR>
                     這不會影響任何判定。如果在一天當中丟出11或是66，就會改變你的這種感覺。
                 </p>
+                <h3 class="skillTitle">風格覺醒</h3>
+                <div class="skillTh clear">條件</div><div class="skillTd" style="width:630px;">仰賴者死亡</div>
+                <br/>
+                <p class="skillFunction"><b>追加效果：</b>
+                    你的背反律效果改為： <BR>
+                    你每天開始的時候都會丟一個1D6，如果丟出3以下表示所有判定增加1D6、丟出4以上所有判定減少1D6。 <BR>
+                    如果在一天當中丟出11或是66，就會反轉效果。
+                </p>
             </div>
         </skillbox>
         <skillbox>
@@ -589,7 +597,14 @@
                 <p class="skillFunction"><b>效果：</b>
                     <BR>
                     計算好的事總是會失手，你也不知道是為什麼。 <BR>
-                    在一天一次2d6骰數值10以上的事件中會反轉為1.1，但是在這這之後你的異性緣都奇好無比。（由GM演出）
+                    在一天一次2d6骰數值10以上的判定中會反轉為1.1，但是在這這之後你的異性緣都奇好無比。（由GM演出）
+                </p>
+                <h3 class="skillTitle">風格反抗</h3>
+                <div class="skillTh clear">條件</div><div class="skillTd" style="width:630px;">你反轉的判定因為任何原因沒有大失敗</div>
+                <br/>
+                <p class="skillFunction"><b>追加效果：</b>
+                    你的背反律效果追加： <BR>
+                    在一天一次2d6骰數值4以下的判定中會反轉為6.6。
                 </p>
             </div>
         </skillbox>
@@ -892,6 +907,35 @@
                 </p>
             </div>
         </skillbox>
+        <skillbox>
+            <div class="skillWrap_dividepoint">
+                <h3 class="skillTitle">天選之人</h3>
+                <p class="skillFunction">
+                    <b class="italic">
+                        你的運氣總是比別人好，尤其在轉蛋遊戲上更能明顯展示差距。 <BR>
+                    </b>
+                </p>
+                <h3 class="skillTitle">背反律「命運女神的微笑」</h3>
+                <div class="skillTh clear">分類</div><div class="skillTd" style="width:630px;">常時</div>
+                <br/>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">—</div>
+                <br/>
+                <div class="skillTh2 clear">級別限制</div><div class="skillTd3">—</div>
+                <br/>
+                <div class="skillTh2">獲得感情</div><div class="skillTd3">—</div>
+                <br/>
+                <div class="skillTh2">代表角色</div><div class="skillTd3">—</div>
+                <br/>
+                <p class="skillFunction"><b>效果：</b>
+                    <BR>
+                    你的會心-1，會心上限+1(由3變成4)。 <BR>
+                    一劇本一次，你可以在任何時候讓自己的判定大成功。 <BR>
+                    此效果發動後會心上限成為0。 <BR>
+                    同場景除了你之外還有其他同樣風格的角色存在時，你們的會心上限一同成為0。
+                </p>
+            </div>
+        </skillbox>
+
         <div id="clearleft"></div>
     </div>
 </div>
