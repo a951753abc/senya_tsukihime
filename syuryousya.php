@@ -1480,18 +1480,18 @@
                     </div>
                 </skillbox>
                 <skillbox>
-                    <div class="skillWrap">
+                    <div class="skillWrap_dividepoint">
                         <!-- 特技名稱 -->
                         <h3 class="skillTitle">機能特化‧武裝</h3>
                         <!-- 特技設定 -->
                         <!-- 分類 -->
-                        <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">攻擊類型／特殊</div>
+                        <div class="skillTh clear">分類</div><div class="skillTd" style="width:600px;">攻擊類型／特殊</div>
                         <br/>
                         <!-- 代價 -->
-                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
+                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:600px;">－</div>
                         <br/>
                         <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
                         <br/>
                         <!-- 取得限制 -->
                         <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級3以上、被造物、機能特化</div>
