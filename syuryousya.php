@@ -197,10 +197,10 @@
                         <h3 class="skillTitle">人外血脈──死徒</h3>
                         <!-- 特技設定 -->
                             <!-- 分類 -->
-                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:630px;">常時</div>
+                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:600px;">常時</div>
                             <br/>
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:600px;">－</div>
                             <br/>
                             <!-- 情緒獎勵 -->
                             <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
@@ -233,10 +233,10 @@
                         <h3 class="skillTitle">人外血脈──鬼種</h3>
                         <!-- 特技設定 -->
                         <!-- 分類 -->
-                        <div class="skillTh clear">分類</div><div class="skillTd" style="width:630px;">常時</div>
+                        <div class="skillTh clear">分類</div><div class="skillTd" style="width:600px;">常時</div>
                         <br/>
                         <!-- 代價 -->
-                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">－</div>
+                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:600px;">－</div>
                         <br/>
                         <!-- 情緒獎勵 -->
                         <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
@@ -266,10 +266,10 @@
                         <h3 class="skillTitle">人外血脈──被造物</h3>
                         <!-- 特技設定 -->
                         <!-- 分類 -->
-                        <div class="skillTh clear">分類</div><div class="skillTd" style="width:630px;">常時</div>
+                        <div class="skillTh clear">分類</div><div class="skillTd" style="width:600px;">常時</div>
                         <br/>
                         <!-- 代價 -->
-                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">－</div>
+                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:600px;">－</div>
                         <br/>
                         <!-- 情緒獎勵 -->
                         <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
