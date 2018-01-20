@@ -1268,6 +1268,32 @@
         <skillbox>
             <div class="skillWrap">
                 <!-- 特技名稱 -->
+                <h3 class="skillTitle">鶚之眼</h3>
+                <!-- 特技設定 -->
+                <!-- 分類 -->
+                <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通常</div>
+                <br/>
+                <!-- 代價 -->
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害10-戰場掌握等級</div>
+                <br/>
+                <!-- 情緒獎勵 -->
+                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                <br/>
+                <!-- 取得限制 -->
+                <div class="skillTh2">取得限制</div><div class="skillTd3">狩人之眼、狩人等級三以上</div>
+                <br/>
+                <!-- 特技解說 -->
+                <!-- 效果 -->
+                <p class="skillFunction"><b>効果：</b>
+                    射擊傷害骰其中【1】個不骰結果取6；傷害發生會心時【】內的值+1。 <BR>
+                    鷹之眼取得時此特技取得條件的狩人等級+2。
+                </p>
+                <!-- 結尾 -->
+            </div>
+        </skillbox>
+        <skillbox>
+            <div class="skillWrap">
+                <!-- 特技名稱 -->
                 <h3 class="skillTitle">後跳</h3>
                 <!-- 特技設定 -->
                 <!-- 分類 -->
