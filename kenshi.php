@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+<html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         
@@ -30,8 +30,10 @@
             <div id="description">
                 <h1><a id="description_rank1"></a>級別解說 <a href="#top" style="text-decoration:none;color:#000;">▲</a></h1>
                 <h2>
-                	將心轉為利刃，為了斬倒敵人而磨練技量。這是與一般人無緣的修羅道。 <BR>
-                    你是很不容易走到這裡的吧？為了到這裡又越過幾個戰場呢？
+                    你是在劍上寄託自我的戰士。 <BR>
+                    施展所有的技術，將心轉為利刃，一切的一切只為了斬倒敵人的剎那。 <BR>
+                    這是和普通人幾近無緣，修羅、羅剎的生活方式。 <BR>
+                    你是為了什麼走上這條路？為了踏上這條路，你又跨越了多少戰場？
                 </h2> 
             </div>
             
@@ -268,8 +270,8 @@
                                 	　　你獲得技能■二天一流。<br>
                                 一刀流：<br>
 									　　你獲得技能■一刀流。<br>
-                                秀綱流居合術：<br>
-									　　你獲得技能■秀綱流。
+                                夢想流：<br>
+                                　　你獲得技能■夢想流。
             				</p>
                             
                         <!-- 結尾 -->                        
@@ -353,7 +355,7 @@
                     <div class="skillWrap">
                     
                         <!-- 特技名稱 -->
-                        <h3 class="skillTitle">秀綱流</h3>
+                        <h3 class="skillTitle">夢想流</h3>
                         
                         <!-- 特技設定 -->
                         
@@ -378,7 +380,7 @@
                         
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
-                            使用居合刀進行的攻擊。指定一對象造成１Ｄ６傷害。並可宣言任一架式。〈跪座〉待機延遲４，本次攻擊傷害追加２Ｄ６，你與對方皆無法宣言反擊。〈站姿〉本次命中值追加３。
+                            使用居合刀進行的攻擊。指定一對象造成《1D6》傷害。並可宣言任一架式。〈跪座〉待機延遲４，本次攻擊傷害追加２Ｄ６，你與對方皆無法宣言反擊。〈站姿〉本次命中值追加３。
                             </p>
                             
                         <!-- 結尾 -->     
@@ -861,14 +863,14 @@
                             <br/>
                             
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">段位‧切紙、流派──秀綱流</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">段位‧切紙、流派──夢想流</div>
                             <br/>
                         
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
-                            	秀綱流的起手架式，你得把刀子收起來才可以拔。回合終了為止你的流派──秀綱流技能命中會心－１。 
+                            	夢想流的起手架式，你得把刀子收起來才可以拔。回合終了為止你的流派──夢想流技能命中會心－１。 
                             </p>
                             
                         <!-- 結尾 -->     
@@ -878,7 +880,7 @@
                     <div class="skillWrap_dividepoint">
                     
                         <!-- 特技名稱 -->
-                        <h3 class="skillTitle">秀綱流居合一本目「始」</h3>
+                        <h3 class="skillTitle">夢想流居合一本目</h3>
                         
                         <!-- 特技設定 -->
                         
@@ -896,14 +898,14 @@
                             <br/>
                             
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">段位‧切紙、流派──秀綱流</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">段位‧切紙、流派──夢想流</div>
                             <br/>
                         
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
-                            秀綱流拔刀術，以電光石火速度拔刀斬向敵人，只能搭配秀綱流技能使用。本次攻擊傷害增加［你減去對手的行動點］。傷害限制：<br>
+                            夢想流拔刀術，以電光石火速度拔刀斬向敵人，只能搭配夢想流技能使用。本次攻擊傷害增加［你減去對手的行動點］。傷害限制：<br>
                             〈切紙〉最大上限傷害４<br>
                             〈目錄〉技能名稱改為「始」１／２拍子，最大上限傷害８<br>
                             〈印可〉技能名稱改為「始」１／４拍子，最大上限傷害１２<br>
@@ -917,7 +919,7 @@
                 <skillbox>
                     <div class="skillWrap">
                         <!-- 特技名稱 -->
-                        <h3 class="skillTitle">秀綱流居合二本目「無鞘拔刀」</h3>
+                        <h3 class="skillTitle">夢想流居合二本目</h3>
                         <!-- 特技設定 -->
                             <!-- 分類 -->
                             <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">常時</div>
@@ -929,12 +931,12 @@
                             <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">段位‧目錄、流派──秀綱流</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">段位‧目錄、流派──夢想流</div>
                             <br/>
                         <!-- 特技解說 -->
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
-                            	你手上的武器不是刀，而是其他諸如竹刀、鐵管之類的非利刃物品時，可以無視傷害懲罰使用秀綱流。使用後該物品損毀。
+                            	你手上的武器不是刀，而是其他諸如竹刀、鐵管之類的非利刃物品時，可以無視傷害懲罰使用夢想流。使用後該物品損毀。
                             </p>
                         <!-- 結尾 -->     
                     </div>
@@ -942,7 +944,7 @@
                 <skillbox>
                     <div class="skillWrap">
                         <!-- 特技名稱 -->
-                        <h3 class="skillTitle">車返</h3>
+                        <h3 class="skillTitle">夢想流居合三本目</h3>
                         <!-- 特技設定 -->
                             <!-- 分類 -->
                             <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">防禦</div>
@@ -954,12 +956,12 @@
                             <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">段位‧目錄、流派──秀綱流</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">段位‧目錄、流派──夢想流</div>
                             <br/>
                         <!-- 特技解說 -->
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
-                            	對手是空手攻擊時才能使用。你的迴避達成值＋２，成功迴避的話，你可以無視行動狀態，以２Ｄ６傷害的打砍進行一次攻擊，此次攻擊不得附加其他進攻特技。
+                            	對手是空手攻擊時才能使用。你的迴避達成值+2，成功迴避的話，你可以無視行動狀態，以2D6傷害的打砍進行一次攻擊，此次攻擊不得附加其他進攻特技。
                             </p>
                         <!-- 結尾 -->     
                     </div>
@@ -967,7 +969,7 @@
                 <skillbox>
                     <div class="skillWrap">
                         <!-- 特技名稱 -->
-                        <h3 class="skillTitle">秀綱流居合三本目「玉廉」</h3>
+                        <h3 class="skillTitle">夢想流居合四本目</h3>
                         <!-- 特技設定 -->
                             <!-- 分類 -->
                             <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">常時</div>
@@ -979,12 +981,12 @@
                             <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">段位‧印可、流派──秀綱流</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">段位‧印可、流派──夢想流</div>
                             <br/>
                         <!-- 特技解說 -->
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
-                            	你的秀綱流可同時以同區域兩人為對象進行攻擊，位於左邊敵人受到的實際傷害會減半。
+                            	你的夢想流可同時以同區域兩人為對象進行攻擊，位於左邊敵人受到的實際傷害會減半。
                             </p>
                         <!-- 結尾 -->     
                     </div>
@@ -992,7 +994,7 @@
                 <skillbox>
                     <div class="skillWrap">
                         <!-- 特技名稱 -->
-                        <h3 class="skillTitle">秀綱流居合四本目「釜蓋朔日」</h3>
+                        <h3 class="skillTitle">夢想流居合五本目</h3>
                         <!-- 特技設定 -->
                             <!-- 分類 -->
                             <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通常</div>
@@ -1004,12 +1006,12 @@
                             <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">2</div>
                             <br/>
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">段位‧印可、流派──秀綱流</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">段位‧印可、流派──夢想流</div>
                             <br/>
                         <!-- 特技解說 -->
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
-                            	配合秀綱流一本目，拔刀時甩出劍鞘進行長度補正的遠距離攻擊。你的本次攻擊成為全區域射程。但是要記住劍鞘甩出去不會自己飛回來。
+                            	配合夢想流一本目，拔刀時甩出劍鞘進行長度補正的遠距離攻擊。你的本次攻擊成為全區域射程。但是要記住劍鞘甩出去不會自己飛回來。
                             </p>
                         <!-- 結尾 -->     
                     </div>
@@ -1017,7 +1019,7 @@
                 <skillbox>
                     <div class="skillWrap">
                         <!-- 特技名稱 -->
-                        <h3 class="skillTitle">秀綱流居合五本目「斬鐵」</h3>
+                        <h3 class="skillTitle">夢想流居合六本目</h3>
                         <!-- 特技設定 -->
                             <!-- 分類 -->
                             <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通常</div>
@@ -1029,12 +1031,12 @@
                             <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">2</div>
                             <br/>
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">段位‧大目錄、流派──秀綱流</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">段位‧大目錄、流派──夢想流</div>
                             <br/>
                         <!-- 特技解說 -->
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
-                            	你的技能〈秀綱流居合一本目「始」〉敘述文新增「通過一個難易度１５的精神判定，你本次的傷害追加此判定數值，失敗的話本次傷害減去此數值。當你段位達到免許皆傳時，可改以額外兩倍支付代價傷害代替判定」。
+                            	你的技能〈夢想流居合一本目〉敘述文新增「通過一個難易度15的精神判定，你本次的傷害追加此判定數值，失敗的話本次傷害減去此數值。當你段位達到免許皆傳時，可改以額外兩倍支付代價傷害代替判定」。
                             </p>
                         <!-- 結尾 -->     
                     </div>
@@ -1042,7 +1044,7 @@
                 <skillbox>
                     <div class="skillWrap">
                         <!-- 特技名稱 -->
-                        <h3 class="skillTitle">秀綱流居合六本目「銜草」</h3>
+                        <h3 class="skillTitle">夢想流居合七本目</h3>
                         <!-- 特技設定 -->
                             <!-- 分類 -->
                             <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">防禦</div>
@@ -1054,7 +1056,7 @@
                             <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">2</div>
                             <br/>
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">段位‧大目錄、流派──秀綱流</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">段位‧大目錄、流派──夢想流</div>
                             <br/>
                         <!-- 特技解說 -->
                             <!-- 效果 -->
@@ -1098,12 +1100,12 @@
                         <!-- 特技解說 -->
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
-                            你手上有大小太刀時，傷害增加２Ｄ６，攻擊範圍可包含相鄰區域。並得到以下架式：<br>
-							〈地太刀〉你可以付出２０點行動點使本次攻擊的命中值＋［你的劍士等級］。<br>
-							〈火太刀〉你可以付出２０點行動點使本次攻擊的實際傷害成為兩倍。<br>
-							〈風太刀〉你可以付出２０點行動點使本次攻擊射程成為全區域。<br>
-							〈水太刀〉你可以付出２０點行動點進行兩次攻擊。<br>
-							〈空太刀〉你可以付出２０點行動點，反擊即使不以你為對象的技能。此次行動完你不會進入已行動狀態。
+                            你手上有大小太刀時，傷害增加2D6，攻擊範圍可包含相鄰區域。並得到以下架式：<br>
+							〈地太刀〉你可以付出20點行動點使本次攻擊的命中值＋［你的劍士等級］。<br>
+							〈火太刀〉你可以付出20點行動點使本次攻擊的實際傷害成為兩倍。<br>
+							〈風太刀〉你可以付出20點行動點使本次攻擊射程成為全區域。<br>
+							〈水太刀〉你可以付出20點行動點進行兩次攻擊。<br>
+							〈空太刀〉你可以付出20點行動點，反擊即使不以你為對象的技能。空太刀反擊後你不會進入已行動狀態。
                             </p>
                         <!-- 結尾 -->     
                     </div>
@@ -1188,7 +1190,7 @@
                 <skillbox>
                     <div class="skillWrap">
                         <!-- 特技名稱 -->
-                        <h3 class="skillTitle">秀綱流居合七本目「氣圓」</h3>
+                        <h3 class="skillTitle">夢想流居合八本目</h3>
                         <!-- 特技設定 -->
                             <!-- 分類 -->
                             <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">常時</div>
@@ -1200,12 +1202,12 @@
                             <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">段位‧免許皆傳、流派──秀綱流</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">段位‧免許皆傳、流派──夢想流</div>
                             <br/>
                         <!-- 特技解說 -->
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
-                            當你行動點在２０以上的時候，技能〈秀綱流居合一本目「始」〉攻擊射程成為全區域。
+                            當你行動點在２０以上的時候，技能〈夢想流居合一本目「始」〉攻擊射程成為全區域。
                             </p>
                         <!-- 結尾 -->     
                     </div>
@@ -1213,7 +1215,7 @@
                 <skillbox>
                     <div class="skillWrap">
                         <!-- 特技名稱 -->
-                        <h3 class="skillTitle">秀綱流奧義‧無拍子</h3>
+                        <h3 class="skillTitle">奧義‧無拍拔刀</h3>
                         <!-- 特技設定 -->
                             <!-- 分類 -->
                             <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通用</div>
@@ -1225,12 +1227,12 @@
                             <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">2</div>
                             <br/>
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">段位‧免許皆傳、流派──秀綱流</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">段位‧免許皆傳、流派──夢想流</div>
                             <br/>
                         <!-- 特技解說 -->
                             <!-- 效果 -->
                             <p class="skillFunction"><b>効果：</b>
-                            通過一個難易度１７的精神判定與難易度２０的行動判定，本次攻擊命中以會心計算，傷害追加《你的劍士等級》。精神判定可以兩倍代價傷害支付，行動判定可以行動點支付。獲得此技能後擁有以下常時效果──你的【行動】、【精神】常時＋３。此技能一劇本限用兩回。
+                            通過一個難易度17的精神判定與難易度２０的行動判定，本次攻擊命中以會心計算，傷害追加《你的劍士等級》。精神判定可以兩倍代價傷害支付，行動判定可以行動點支付。獲得此技能後擁有以下常時效果──你的【行動】、【精神】常時＋３。此技能一劇本限用兩回。
                             </p>
                         <!-- 結尾 -->     
                     </div>
