@@ -1089,7 +1089,7 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害20</div>
                             <br/>
                                             
                             <!-- 情緒獎勵 -->
