@@ -204,11 +204,11 @@
 
 
                 <!-- 分類 -->
-                <div class="skillTh clear">分類</div><div class="skillTd" style="width:630px;">常時</div>
+                <div class="skillTh clear">分類</div><div class="skillTd" style="width:600px;">常時</div>
                 <br/>
 
                 <!-- 代價 -->
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">－</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:600px;">－</div>
                 <br/>
 
                 <!-- 情緒獎勵 -->
@@ -983,29 +983,32 @@
             </div>
         </skillbox>
         <skillbox>
-            <div class="skillWrap">
+            <div class="skillWrap_dividepoint">
                 <!-- 特技名稱 -->
                 <h3 class="skillTitle">第八秘跡會所屬</h3>
                 <!-- 特技設定 -->
                 <!-- 分類 -->
-                <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">常時</div>
+                <div class="skillTh clear">分類</div><div class="skillTd" style="width:600px;">常時</div>
                 <br/>
+
                 <!-- 代價 -->
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:600px;">－</div>
                 <br/>
+
                 <!-- 情緒獎勵 -->
                 <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
                 <br/>
+
                 <!-- 取得限制 -->
                 <div class="skillTh2">取得限制</div><div class="skillTd3">代行者等級3以上、異端審判人或異端消抹偏執、所持：秘跡、秘跡破壞或秘跡封印</div>
                 <br/>
+
                 <!-- 特技解說 -->
                 <!-- 效果 -->
                 <p class="skillFunction"><b>効果：</b>
                     你可以再持有［你的代行者等級／2］個秘跡，四捨五入。 <BR>
                     你可以得知任何處於【封印】狀態的裝備品或消耗品的位置。 <BR>
-                    一個劇本可以使用［你的代行者等級］次，接觸該物品或與該物持有者近戰命中對抗成功後，回收處於【封印】狀態的該裝備品或消耗品。
-                </p>
+                    一個劇本可以使用［你的代行者等級］次，接觸該物品或與該物持有者近戰命中對抗成功後，回收處於【封印】狀態的該裝備品或消耗品。                         </p>
                 <!-- 結尾 -->
             </div>
         </skillbox>
