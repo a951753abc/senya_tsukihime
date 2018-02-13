@@ -605,7 +605,7 @@
                 <!-- 效果 -->
                 <p class="skillFunction"><b>効果：</b>
                     劇本開始時持有手槍。一劇本最多得到【1】+[狩人等級/2]回支援。 <BR>
-                    新劇本開始時可以取得未持有的掌握槍械，此外額外取得槍種時消耗1回支援。
+                    新劇本開始時可以取得未持有的一種槍械，要再取得其他槍械時消耗1回支援。
                 </p>
                 <!-- 結尾 -->
             </div>
@@ -625,7 +625,7 @@
                 <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
                 <br/>
                 <!-- 取得限制 -->
-                <div class="skillTh2">取得限制</div><div class="skillTd3">無隱密通路</div>
+                <div class="skillTh2">取得限制</div><div class="skillTd3">隱密通路</div>
                 <br/>
                 <!-- 特技解說 -->
                 <!-- 效果 -->
