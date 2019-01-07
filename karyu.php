@@ -876,13 +876,39 @@
         <skillbox>
             <div class="skillWrap">
                 <!-- 特技名稱 -->
+                <h3 class="skillTitle">破甲一擊</h3>
+                <!-- 特技設定 -->
+                <!-- 分類 -->
+                <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">進攻／射擊</div>
+                <br/>
+                <!-- 代價 -->
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">無</div>
+                <br/>
+                <!-- 情緒獎勵 -->
+                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                <br/>
+                <!-- 取得限制 -->
+                <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
+                <br/>
+                <!-- 特技解說 -->
+                <!-- 效果 -->
+                <p class="skillFunction"><b>効果：</b>
+                    和槍械組合使用。實際傷害後效果，防禦側的防禦點在《狩人等級／3》回合內減少你【知覺】點。<BR>
+                    和穿甲彈或高暴彈組合使用時改成命中即生效。
+                </p>
+                <!-- 結尾 -->
+            </div>
+        </skillbox>
+        <skillbox>
+            <div class="skillWrap">
+                <!-- 特技名稱 -->
                 <h3 class="skillTitle">跳彈</h3>
                 <!-- 特技設定 -->
                 <!-- 分類 -->
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">進攻／射擊</div>
                 <br/>
                 <!-- 代價 -->
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害6</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">無</div>
                 <br/>
                 <!-- 情緒獎勵 -->
                 <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">2</div>
@@ -909,7 +935,7 @@
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">進攻／射擊</div>
                 <br/>
                 <!-- 代價 -->
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害4</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">參見內文</div>
                 <br/>
                 <!-- 情緒獎勵 -->
                 <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
