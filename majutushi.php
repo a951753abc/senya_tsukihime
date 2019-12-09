@@ -1350,45 +1350,6 @@
                             
                 </div>
                 </skillbox>
-                
-                <skillbox>
-                <!-- 特技框架 -->
-                    <div class="skillWrap">
-                    
-                        <!-- 特技名稱 -->
-                        <h3 class="skillTitle">複數詠唱</h3>
-                        
-                        <!-- 特技設定 -->
-                        
-                      
-                            <!-- 分類 -->
-                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">進攻／射擊</div>
-                            <br/>
-                            
-                            <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害30點，待機延遲10點</div>
-                            <br/>
-                                            
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
-                            <br/>
-                            
-                            <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">詠唱、魔術師等級6以上</div>
-                            <br/>
-                        
-                        <!-- 特技解說 -->
-                        
-                            <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>
-                            	此技能需要配合詠唱技能使用。你的詠唱傷害追加「１Ｄ６＋［你所有不為零以下屬性的總和］」，每多一種屬性，待機延遲增加等量屬性點。此技能使用時，行動點數不可小於你所需的待機延遲點數。
-                            </p>
-                            
-                        <!-- 結尾 -->   
-                                               
-                </div>
-                </skillbox>
-                
                 <skillbox>
                     <div class="skillWrap">
                     
