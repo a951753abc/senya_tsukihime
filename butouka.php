@@ -200,11 +200,11 @@
 
 
                 <!-- 分類 -->
-                <div class="skillTh clear">分類</div><div class="skillTd" style="width:620px;">常時</div>
+                <div class="skillTh clear">分類</div><div class="skillTd" style="width:620px;">通常</div>
                 <br/>
 
                 <!-- 代價 -->
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:620px;">－</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:620px;">代價傷害5點</div>
                 <br/>
 
                 <!-- 情緒獎勵 -->
@@ -218,8 +218,11 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>你的近戰相關判定常時＋２，傷害＋２。<br>
-                    你需要使用【體力】做搜索判定時，達成值＋《２》</p>
+                <p class="skillFunction"><b>効果：</b> <BR>
+                    以下三者擇一：
+                    近戰相關判定＋２。<br>
+                    近戰傷害＋２。 <BR>
+                    【體力】判定達成值＋《２》</p>
 
                 <!-- 結尾 -->
             </div>
