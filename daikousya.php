@@ -729,6 +729,31 @@
                 <!-- 結尾 -->
             </div>
         </skillbox>
+        <skillbox>
+            <div class="skillWrap">
+                <!-- 特技名稱 -->
+                <h3 class="skillTitle">真實確在的恩膏</h3>
+                <!-- 特技設定 -->
+                <!-- 分類 -->
+                <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">常時</div>
+                <br/>
+                <!-- 代價 -->
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
+                <br/>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
+                <br/>
+                <!-- 取得限制 -->
+                <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
+                <br/>
+                <!-- 特技解說 -->
+                <!-- 效果 -->
+                <p class="skillFunction"><b>效果：</b>
+                    從基本能力值體力、知覺、理智、意志選擇一項減少［你的代行者等級］，選擇任意兩個魔術師以外級別之特技或選擇一個風格與感情。
+                </p>
+                <!-- 結尾 -->
+            </div>
+        </skillbox>
         <div id="clearleft"></div>
     </div>
 
