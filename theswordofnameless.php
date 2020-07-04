@@ -66,7 +66,7 @@
     <div id="description">
         <h1><a id="description_rank3"></a>取得特技 <a href="#top" style="text-decoration:none;color:#000;">▲</a></h1>
         <h2>初期取得：<br>得到「無名之劍」，然後再選擇一個自己喜歡的特技。 </h2>
-        <h2>升級：<br>等級上升之時、選取一個喜歡的特技。每逢５等、１０等時，可以額外再取得一個特技。</h2>
+        <h2>升級：<br>等級上升之時、選取一個喜歡的特技。每逢5等、10等時，可以額外再取得一個特技。</h2>
     </div>
 
     <!-- 分隔線 -->
@@ -207,11 +207,11 @@
                 <br/>
 
                 <!-- 代價 -->
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -220,7 +220,7 @@
 
                 <!-- 特技解說 -->
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     你在劇本開始時得到【你的無名劍等級】個Cost。 <BR>
                     你能常時擁有的Cost上限為【你的無名劍等級】+1。超過的在場景終了時捨去。 <BR>
                     你每持有1個Cost傷害+1，每3個命中和迴避+1。 <BR>
@@ -247,8 +247,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害15</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -259,7 +259,7 @@
 
                 <!-- 效果 -->
                 <p class="skillFunction">
-                    <b>効果：</b>
+                    <b>效果：</b>
                     每個場景開始時，Cost低於3則得到【無名劍等級／3】Cost，無法因為這個技能讓Cost超過3個。 <BR>
                     準備階段使用，戰鬥終了前每個準備階段得到1個Cost。
                 </p>
@@ -282,11 +282,11 @@
                 <br/>
 
                 <!-- 代價 -->
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">2</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">2</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -296,8 +296,8 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
-                    指定對象一人，給予２Ｄ６傷害。 <BR>
+                <p class="skillFunction"><b>效果：</b>
+                    指定對象一人，給予2D6傷害。 <BR>
                     一戰鬥一回，追加2個Cost，命中達成值為2倍；追加4個Cost，傷害為2倍。 <BR>
                     複數攻擊的情形，選擇一次攻擊得到Cost追加的效果。
                 </p>
@@ -321,11 +321,11 @@
                 <br/>
 
                 <!-- 代價 -->
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">2</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">2</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -335,10 +335,10 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     指定一個對象給予1D6+【無名劍等級】點傷害。 <BR>
                     每持有1個Cost傷害就可以+1。 <BR>
-                    以這個特技給予對象致死的攻擊後，得到《15》點情緒值。 <BR>
+                    以這個特技給予對象致死的攻擊後，得到《15》點TP。 <BR>
                 </p>
 
                 <!-- 結尾 -->
@@ -363,8 +363,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害10點</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -374,7 +374,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     以你一個持有的無名劍級別攻擊類型為對象，得到『空』屬性，點數等同Cost數量。  <BR>
                     傷害增加1D6+『空屬性』點數。效果持續到結束階段。
                 </p>
@@ -400,8 +400,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">傷害代價4</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -411,7 +411,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     和無名劍特技『年端』或『殘月』組合使用。 <BR>
                     實際傷害後效果。對宣言攻擊的對象(非實際傷害的對象)追加一回傷害2D6的攻擊。 <BR>
                     命中處理時防禦側只能用【近戰】和你進行對決，此效果優先於其他改變防禦判定方式的特技。 <BR>
@@ -442,8 +442,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">待機時間3</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -453,7 +453,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     該回攻擊可以攻擊相鄰區域，且命中得到Cost數量補正。
                 </p>
 
@@ -478,8 +478,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害4</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -489,7 +489,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     自由選擇一種屬性，該回攻擊變成該屬性傷害。 <BR>
                     傷害增加【你的無名劍級別等級】點，實際傷害後得到1個Cost。 <BR>
                     追加1個Cost消耗的話，可以再宣言一個分類：進攻的特技組合。 <BR>
@@ -517,8 +517,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">全部Cost</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -528,7 +528,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     不能和增加攻擊對象的特技組合使用。 <BR>
                     消耗代價每1個Cost讓你消耗行動點數5進行一次攻擊。 <BR>
                     行動點數低於5不能繼續攻擊，在此之前你無法取消攻擊。 <BR>
@@ -555,8 +555,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">1Cost</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -566,7 +566,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     無論攻擊側用什麼能力值判定、你都能用【近戰】進行迴避判定。 <BR>
                     追加消耗2個Cost，迴避判定的達成值得到【你的無名劍等級】點補正。
                 </p>
@@ -592,8 +592,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">─</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -604,7 +604,7 @@
 
                 <!-- 效果 -->
                 <p class="skillFunction">
-                    <b>効果：</b>你受到的每個傷害減少Cost數量點。 <BR>
+                    <b>效果：</b>你受到的每個傷害減少Cost數量點。 <BR>
                     進行精神抵抗的判定時，得到+3的補正。 <BR>
                     戰鬥以外進行判定時，每消耗1Cost，可以重新判定一次。
                 </p>
@@ -623,15 +623,15 @@
 
 
                 <!-- 分類 -->
-                <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通常</div>
+                <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通用</div>
                 <br/>
 
                 <!-- 代價 -->
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">─</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -641,7 +641,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     你持有Cost時，得到不良狀態能夠消耗1個Cost解除。 <BR>
                     準備階段消耗2個Cost的話可以解除同區域一個對象的不良狀態。
                 </p>
@@ -679,8 +679,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害25或3Cost</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -690,7 +690,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     HP低於1/3時才能宣言這個特技，以所有區域的存在角色為對象。 <BR>
                     對象受到最大HP(1D6*5)百分比的水屬性傷害。 <BR>
                     之後三個準備階段，行動擲骰結果低於你的對象，行動點數變成0。 <BR>
@@ -717,8 +717,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害10+n</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -728,7 +728,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     發動初霜後才能宣言，效果結束前，每個準備階段時得到1Cost。 <BR>
                     所有判定達成值得到【無名劍等級/3】+Cost補正。 <BR>
                     結束階段必須再支付一次代價才能維持效果。n=持續回合數*5。
@@ -755,8 +755,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">行動點數20，或2Cost</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">5</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">5</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -766,7 +766,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     持有神無效果的攻擊類型造成實際傷害時可以宣言這個特技； <BR>
                     以你持有的【攻擊類型/近戰】特技為對象，對防禦側進行一回攻擊。 <BR>
                     傷害處理時傷害擲骰追加3D6。 <BR>
@@ -794,8 +794,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">行動點數10，或1Cost</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -805,10 +805,10 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     神有造成實際傷害時，可以宣言這個特技； <BR>
                     對和你同區域的所有敵方角色造成4D6+Cost點『空屬性』傷害。 <BR>
-                    你得到傷害擲骰結果等值的情緒值獎勵。 <BR>
+                    你得到傷害擲骰結果等值的TP獎勵。 <BR>
                     主要階段結束後，角色變更為『行動完成狀態』。
                 </p>
 
@@ -833,8 +833,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">2Cost</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">5</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">5</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -844,7 +844,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     你的Cost上限+1，劇本開始時獲得的Cost+1。 <BR>
                     以同區域(包括自己)一人為對象，回復3D6+【無名劍級別等級】點HP。
                 </p>
@@ -870,8 +870,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">2Cost</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">5</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">5</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -881,7 +881,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     你的【行動】得到Cost數量補正。 <BR>
                     主要階段結束時，宣言這個特技，你的行動點數減少15，然後回到未行動狀態。
                 </p>
@@ -907,8 +907,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">1Cost</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">5</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">5</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -918,7 +918,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     進行戰鬥以外判定時，你可以減少一個骰子，獲得1Cost，或者消耗1Cost，增加一個骰子。 <BR>
                     當同區域的角色傷害擲骰時，你也進行傷害擲骰， <BR>
                     然後在攻擊側傷害處理時，你作為反擊側強制與之相殺。 <BR>
@@ -939,15 +939,15 @@
                 <!-- 特技設定 -->
 
                 <!-- 分類 -->
-                <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通常</div>
+                <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通用</div>
                 <br/>
 
                 <!-- 代價 -->
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">Cost上限減少3</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -957,7 +957,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     一劇本一回，在任意的時間點立刻得到2+【無名劍等級／3】Cost。 <BR>
                     並且在【戰鬥／場景】結束前，全判定得到+2的獎勵。
                 </p>

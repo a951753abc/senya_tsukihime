@@ -200,17 +200,17 @@
                             <div class="skillTh clear">分類</div><div class="skillTd" style="width:600px;">常時</div>
                             <br/>
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:600px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:600px;">-</div>
                             <br/>
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">－</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">-</div>
                             <br/>
                         <!-- 特技解說 -->
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>
+                            <p class="skillFunction"><b>效果：</b>
                                 取得此技能後，無法取得其他〈人外血脈〉技能： <BR>
                                 你獲得以下常時狀態： <BR>
                                 ► 最大生命常時增加20，概念武裝與上限傷害以外的攻擊造成實際傷害減輕五分之一。 <BR>
@@ -236,17 +236,17 @@
                         <div class="skillTh clear">分類</div><div class="skillTd" style="width:600px;">常時</div>
                         <br/>
                         <!-- 代價 -->
-                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:600px;">－</div>
+                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:600px;">-</div>
                         <br/>
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                         <br/>
                         <!-- 取得限制 -->
-                        <div class="skillTh2">取得限制</div><div class="skillTd3">－</div>
+                        <div class="skillTh2">取得限制</div><div class="skillTd3">-</div>
                         <br/>
                         <!-- 特技解說 -->
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b>
+                        <p class="skillFunction"><b>效果：</b>
                             取得此技能後，無法取得其他〈人外血脈〉技能： <BR>
                             你獲得以下常時狀態： <BR>
                             ► 劇本開始時集中力增加（你的狩獵者級別*10），每使用一次鬼種技能時，需接受難易度（你的狩獵者級別*3）的反轉衝動判定，此判定可使用【精神】或【體力】進行判定，或是支付同等代價傷害代替判定。 <BR>
@@ -269,17 +269,17 @@
                         <div class="skillTh clear">分類</div><div class="skillTd" style="width:600px;">常時</div>
                         <br/>
                         <!-- 代價 -->
-                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:600px;">－</div>
+                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:600px;">-</div>
                         <br/>
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                         <br/>
                         <!-- 取得限制 -->
-                        <div class="skillTh2">取得限制</div><div class="skillTd3">－</div>
+                        <div class="skillTh2">取得限制</div><div class="skillTd3">-</div>
                         <br/>
                         <!-- 特技解說 -->
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b>
+                        <p class="skillFunction"><b>效果：</b>
                             取得此技能後，無法取得其他〈人外血脈〉技能： <BR>
                             你獲得以下常時狀態： <BR>
                             ► 從【近戰】跟【射擊】選擇一項增加（你的狩獵者級別），另一項減少（你的狩獵者級別）。 <BR>
@@ -302,11 +302,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -316,7 +316,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>指定對象一人，給予３Ｄ６傷害。</p>
+                            <p class="skillFunction"><b>效果：</b>指定對象一人，給予3D6傷害。</p>
                             
                         <!-- 結尾 -->                        
                     </div>
@@ -336,11 +336,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -350,7 +350,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>指定對象一人，給予２Ｄ６＋【體力】傷害。</p>
+                            <p class="skillFunction"><b>效果：</b>指定對象一人，給予2D6+【體力】傷害。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -371,11 +371,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -385,7 +385,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>實傷後效果，你可以指定另一名對象再次攻擊，這個特技一回合只能使用一次。此特技發動的攻擊無法選擇一名以上的對象。第二個攻擊目標可以選擇相鄰區域的對象。</p>
+                            <p class="skillFunction"><b>效果：</b>實傷後效果，你可以指定另一名對象再次攻擊，這個特技一回合只能使用一次。此特技發動的攻擊無法選擇一名以上的對象。第二個攻擊目標可以選擇相鄰區域的對象。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -405,11 +405,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">傷害５</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">傷害5</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -419,7 +419,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>
+                            <p class="skillFunction"><b>效果：</b>
                                 你減少N點命中，傷害增加《N-1》D6。 <BR>
                                 N不可高於你的狩獵者等級。
                             </p>
@@ -442,11 +442,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">傷害５</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">傷害5</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -456,7 +456,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>你的傷害增加＋《你的防禦點》</p>
+                            <p class="skillFunction"><b>效果：</b>你的傷害增加+《你的防禦點》</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -476,11 +476,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -490,7 +490,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>你給予其他角色實傷時，恢復該傷害三分之一的ＨＰ。</p>
+                            <p class="skillFunction"><b>效果：</b>你給予其他角色實傷時，恢復該傷害三分之一的HP。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -510,11 +510,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -524,7 +524,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>防禦點＋２</p>
+                            <p class="skillFunction"><b>效果：</b>防禦點+2</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -544,11 +544,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -558,7 +558,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>以你為對象，每到結束階段恢復現存ＴＰ五分之一的ＨＰ。</p>
+                            <p class="skillFunction"><b>效果：</b>以你為對象，每到結束階段恢復現存TP五分之一的HP。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -585,11 +585,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">傷害６</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">傷害6</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -599,7 +599,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>回合終了前你進入奮起狀態。你所有屬性值＋《２》。</p>
+                            <p class="skillFunction"><b>效果：</b>回合終了前你進入奮起狀態。你所有屬性值+《2》。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -619,11 +619,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">２</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">2</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -633,7 +633,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>指定對象１人，給予２Ｄ６＋【知覺】傷害。</p>
+                            <p class="skillFunction"><b>效果：</b>指定對象1人，給予2D6+【知覺】傷害。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -653,11 +653,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">２</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">2</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -667,11 +667,11 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>指定對象１人，給予２Ｄ６傷害。防禦側有不良狀態【血之鎖】時，你的傷害額外增加３。受到這個實際傷害的對象，會得到不良狀態【血之鎖】。</p>
+                            <p class="skillFunction"><b>效果：</b>指定對象1人，給予2D6傷害。防禦側有不良狀態【血之鎖】時，你的傷害額外增加3。受到這個實際傷害的對象，會得到不良狀態【血之鎖】。</p>
                             <!-- 分隔線 -->
                             <hr class="skillHr"/>
-                            <!-- 次効果 -->
-                            <p class="skillFunction"><b>【血之鎖】</b>你的身體被些微的束縛，命中與迴避的行為判定達成值－１。</p>
+                            <!-- 次效果 -->
+                            <p class="skillFunction"><b>【血之鎖】</b>你的身體被些微的束縛，命中與迴避的行為判定達成值-1。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -691,11 +691,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">２</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">2</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -705,7 +705,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>奮起狀態時產生效果。你的傷害增加《１Ｄ６》。</p>
+                            <p class="skillFunction"><b>效果：</b>奮起狀態時產生效果。你的傷害增加《1D6》。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -725,11 +725,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">２</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">2</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -739,7 +739,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>奮起狀態時產生效果。你可以對有不良狀態的敵人同時發動攻擊。</p>
+                            <p class="skillFunction"><b>效果：</b>奮起狀態時產生效果。你可以對有不良狀態的敵人同時發動攻擊。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -759,11 +759,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害１５</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害15</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -773,7 +773,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>你的攻擊產生實傷後附帶束縛效果。因這個技能得到不良狀態【束縛】的對象不能離開使用者(鬼種)所在的區域。</p>
+                            <p class="skillFunction"><b>效果：</b>你的攻擊產生實傷後附帶束縛效果。因這個技能得到不良狀態【束縛】的對象不能離開使用者(鬼種)所在的區域。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -793,11 +793,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害１５</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害15</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -807,7 +807,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>你的攻擊產生實傷後附帶麻痺效果。</p>
+                            <p class="skillFunction"><b>效果：</b>你的攻擊產生實傷後附帶麻痺效果。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -827,11 +827,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害１０</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害10</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -841,7 +841,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>你的攻擊產生實傷後附帶毒效果。</p>
+                            <p class="skillFunction"><b>效果：</b>你的攻擊產生實傷後附帶毒效果。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -858,15 +858,15 @@
                         <!-- 代價 -->
                         <div class="skillTh clear">代價</div><div class="skillTd" style="width:600px;">-</div>
                         <br/>
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                         <br/>
                         <!-- 取得限制 -->
                         <div class="skillTh2">取得限制</div><div class="skillTd3">被造物</div>
                         <br/>
                         <!-- 特技解說 -->
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b>
+                        <p class="skillFunction"><b>效果：</b>
                             取得此技能後，你即使沒有（魔術師）級別，也可以取得魔術師技能（狩獵者級別視同魔術師級別），但你之後無法取得魔術師級別。 <BR>
                             你無法取得魔術師級別的〈魔術迴路〉、〈魔術刻印〉。 <BR>
                             你的TP上限增加（狩獵者等級*10），每日結束時恢復最大值十分之一。 <BR>
@@ -890,15 +890,15 @@
                         <!-- 代價 -->
                         <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                         <br/>
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                         <br/>
                         <!-- 取得限制 -->
                         <div class="skillTh2">取得限制</div><div class="skillTd3">被造物</div>
                         <br/>
                         <!-- 特技解說 -->
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b>
+                        <p class="skillFunction"><b>效果：</b>
                             你的傷害增加（狩獵者等級）D6。 <BR>
                             你的命中與迴避減少（狩獵者等級）。 <BR>
                             你增加（狩獵者等級*3）的額外機能HP，當你受到傷害時，必須從額外機能HP優先扣除。 <BR>
@@ -918,15 +918,15 @@
                         <!-- 代價 -->
                         <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                         <br/>
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                         <br/>
                         <!-- 取得限制 -->
                         <div class="skillTh2">取得限制</div><div class="skillTd3">被造物</div>
                         <br/>
                         <!-- 特技解說 -->
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b>
+                        <p class="skillFunction"><b>效果：</b>
                             你增加（狩獵者等級*5）的額外機能HP。 <BR>
                             當決定行動時，你受到（狩獵者等級+5）的負修正。 <BR>
                             當你受到傷害時，必須從額外機能HP優先扣除。 <BR>
@@ -946,15 +946,15 @@
                         <!-- 代價 -->
                         <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                         <br/>
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                         <br/>
                         <!-- 取得限制 -->
                         <div class="skillTh2">取得限制</div><div class="skillTd3">被造物</div>
                         <br/>
                         <!-- 特技解說 -->
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b>
+                        <p class="skillFunction"><b>效果：</b>
                             你的命中與迴避增加（狩獵者等級）。 <BR>
                             你的傷害減少（狩獵者等級）D6。 <BR>
                             你增加（狩獵者等級）的額外機能HP。當你受到傷害時，必須從額外機能HP優先扣除。 <BR>
@@ -974,15 +974,15 @@
                         <!-- 代價 -->
                         <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                         <br/>
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                         <br/>
                         <!-- 取得限制 -->
                         <div class="skillTh2">取得限制</div><div class="skillTd3">被造物</div>
                         <br/>
                         <!-- 特技解說 -->
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b>
+                        <p class="skillFunction"><b>效果：</b>
                             你取得一個其他級別，非額外特技的（攻擊類型技能），但你之後無法取得該級別技能。 <BR>
                             技能內文使用級別等級時，以狩獵者級別等級代替。 <BR>
                             此技能可重複取得，但不可選擇選過的特技。
@@ -1001,15 +1001,15 @@
                         <!-- 代價 -->
                         <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                         <br/>
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                         <br/>
                         <!-- 取得限制 -->
                         <div class="skillTh2">取得限制</div><div class="skillTd3">被造物</div>
                         <br/>
                         <!-- 特技解說 -->
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b>
+                        <p class="skillFunction"><b>效果：</b>
                             你取得一個其他級別，非額外特技的（進攻技能），但你之後無法取得該級別技能。 <BR>
                             技能內文使用級別等級時，以狩獵者級別等級代替。 <BR>
                             此技能可重複取得，但不可選擇選過的特技。
@@ -1028,15 +1028,15 @@
                         <!-- 代價 -->
                         <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                         <br/>
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                         <br/>
                         <!-- 取得限制 -->
                         <div class="skillTh2">取得限制</div><div class="skillTd3">被造物</div>
                         <br/>
                         <!-- 特技解說 -->
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b>
+                        <p class="skillFunction"><b>效果：</b>
                             你取得一個其他級別，非額外特技的（防禦技能），但你之後無法取得該級別技能。 <BR>
                             技能內文使用級別等級時，以狩獵者級別等級代替。 <BR>
                             此技能可重複取得，但不可選擇選過的特技。
@@ -1055,15 +1055,15 @@
                         <!-- 代價 -->
                         <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                         <br/>
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                         <br/>
                         <!-- 取得限制 -->
                         <div class="skillTh2">取得限制</div><div class="skillTd3">被造物</div>
                         <br/>
                         <!-- 特技解說 -->
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b>
+                        <p class="skillFunction"><b>效果：</b>
                             你取得一個其他級別，非額外特技的（常時技能），但你之後無法取得該級別技能。 <BR>
                             技能內文使用級別等級時，以狩獵者級別等級代替。 <BR>
                             此技能可重複取得，但不可選擇選過的特技。
@@ -1095,21 +1095,21 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級３以上</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級3以上</div>
                             <br/>
                         
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>你受到的實際傷害在你的【體力】以下時變成０。但是對上限傷害無法發揮效果。</p>
+                            <p class="skillFunction"><b>效果：</b>你受到的實際傷害在你的【體力】以下時變成0。但是對上限傷害無法發揮效果。</p>
                             
                         <!-- 結尾 -->    
                         
@@ -1129,21 +1129,21 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級３以上、死徒</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級3以上、死徒</div>
                             <br/>
                         
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>被你吸血而死的生命，會成為死者（詳見移動屍體）。被他們所殺死的人，視為你殺死可吸食，然而你無法讓死者產生死者。</p>
+                            <p class="skillFunction"><b>效果：</b>被你吸血而死的生命，會成為死者（詳見移動屍體）。被他們所殺死的人，視為你殺死可吸食，然而你無法讓死者產生死者。</p>
                             
                         <!-- 結尾 -->  
                             
@@ -1165,21 +1165,21 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害１０</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害10</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級 ４以上、死徒</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級 4以上、死徒</div>
                             <br/>
                         
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>回合終了前你的近戰＋４，防禦＋４。</p>
+                            <p class="skillFunction"><b>效果：</b>回合終了前你的近戰+4，防禦+4。</p>
                             
                         <!-- 結尾 -->   
                                                
@@ -1203,18 +1203,18 @@
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害15</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級５以上、死徒</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級5以上、死徒</div>
                             <br/>
                         
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>你的攻擊以同區域敵方全體為對象。</p>
+                            <p class="skillFunction"><b>效果：</b>你的攻擊以同區域敵方全體為對象。</p>
                             
                         <!-- 結尾 -->    
                                               
@@ -1235,21 +1235,21 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級８以上、死徒、死種創造</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級8以上、死徒、死種創造</div>
                             <br/>
                         
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>實力已逼近２７祖的死徒獲得的稱號。你的基本四屬能力＋［你的狩獵者等級－７］，防禦值＋［你的狩獵者等級－７］，最大生命常時增加２０，ＴＰ上限成為１５０。</p>
+                            <p class="skillFunction"><b>效果：</b>實力已逼近27祖的死徒獲得的稱號。你的基本四屬能力+［你的狩獵者等級-7］，防禦值+［你的狩獵者等級-7］，最大生命常時增加20，TP上限成為150。</p>
                             
                         <!-- 結尾 -->     
                                              
@@ -1270,21 +1270,21 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害１２</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害12</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級４以上、鬼種</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級4以上、鬼種</div>
                             <br/>
                         
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>與赤朱覺醒同時使用，赤朱覺醒的效果變成戰鬥終了為止。另外，同區域所有角色在變成「行動不能狀態」之前無法逃走。</p>
+                            <p class="skillFunction"><b>效果：</b>與赤朱覺醒同時使用，赤朱覺醒的效果變成戰鬥終了為止。另外，同區域所有角色在變成「行動不能狀態」之前無法逃走。</p>
                             
                         <!-- 結尾 -->   
                                                
@@ -1305,21 +1305,21 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級４以上、鬼種</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級4以上、鬼種</div>
                             <br/>
                         
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>你可以將你的【生命力】任意賦予角色，付出的同時會減少同等生命上限。付出的生命可以隨時收回。</p>
+                            <p class="skillFunction"><b>效果：</b>你可以將你的【生命力】任意賦予角色，付出的同時會減少同等生命上限。付出的生命可以隨時收回。</p>
                             
                         <!-- 結尾 -->  
                             
@@ -1340,21 +1340,21 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">傷害１０</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">傷害10</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級４以上、鬼種</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級4以上、鬼種</div>
                             <br/>
                         
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>你的檻髮與血之魔劍效果改為給予上限傷害。</p>
+                            <p class="skillFunction"><b>效果：</b>你的檻髮與血之魔劍效果改為給予上限傷害。</p>
                             
                         <!-- 結尾 -->  
                             
@@ -1375,21 +1375,21 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">傷害１０</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">傷害10</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級６以上、鬼種</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級6以上、鬼種</div>
                             <br/>
                         
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>你在激勵狀態時候效果。你的命中與傷害增加［現在回合數］點。這個數值的上限是你的［狩獵者等級］。你可以在攻擊中支付１０點代價傷害，額外給予對象［目前不良狀態數］Ｄ６傷害，實際傷害後對象不良狀態消失。</p>
+                            <p class="skillFunction"><b>效果：</b>你在激勵狀態時候效果。你的命中與傷害增加［現在回合數］點。這個數值的上限是你的［狩獵者等級］。你可以在攻擊中支付10點代價傷害，額外給予對象［目前不良狀態數］D6傷害，實際傷害後對象不良狀態消失。</p>
                             
                         <!-- 結尾 -->  
                             
@@ -1410,20 +1410,20 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害１５</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害15</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級６以上、鬼種</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級6以上、鬼種</div>
                             <br/>
                         
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>此特技與我的牢籠同時使用。以你之外同區域所有角色為對象。對象在回合結束時受到《１Ｄ６＋［你的狩獵者等級］》點實際傷害，你回復同等份量的ＨＰ。這效果到戰鬥結束為止。</p>
+                            <p class="skillFunction"><b>效果：</b>此特技與我的牢籠同時使用。以你之外同區域所有角色為對象。對象在回合結束時受到《1D6+［你的狩獵者等級］》點實際傷害，你回復同等份量的HP。這效果到戰鬥結束為止。</p>
                             
                         <!-- 結尾 -->  
                             
@@ -1440,15 +1440,15 @@
                         <!-- 代價 -->
                         <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                         <br/>
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                         <br/>
                         <!-- 取得限制 -->
                         <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級3以上、被造物</div>
                         <br/>
                         <!-- 特技解說 -->
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b>
+                        <p class="skillFunction"><b>效果：</b>
                             你的魔術使用代價輕減四分之一（包含待機延遲）。 <BR>
                             你的TP額外增加50點上限，每到準備階段，你會恢復［狩獵者等級*3］點TP。 <BR>
                             你的HP減少［狩獵者等級］點。
@@ -1467,15 +1467,15 @@
                         <!-- 代價 -->
                         <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害10</div>
                         <br/>
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                         <br/>
                         <!-- 取得限制 -->
                         <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級3以上、被造物、機能特化</div>
                         <br/>
                         <!-- 特技解說 -->
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b>
+                        <p class="skillFunction"><b>效果：</b>
                             判定時使用，本次判定增加（狩獵者等級）。 <BR>
                             這個技能一個劇本只能使用（你的〈機能特化〉技能數量）次。
                         </p>
@@ -1491,17 +1491,17 @@
                         <div class="skillTh clear">分類</div><div class="skillTd" style="width:600px;">攻擊類型／特殊</div>
                         <br/>
                         <!-- 代價 -->
-                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:600px;">－</div>
+                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:600px;">-</div>
                         <br/>
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                         <br/>
                         <!-- 取得限制 -->
                         <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級3以上、被造物、機能特化</div>
                         <br/>
                         <!-- 特技解說 -->
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b>
+                        <p class="skillFunction"><b>效果：</b>
                             取得此技能時，你必須決定此攻擊類型是近戰或是遠戰。 <BR>
                             近戰：指定一對象，造成1D6 + （你的〈機能特化〉技能數量）傷害。 <BR>
                             遠戰：指定（你的〈機能特化〉技能數量）對象，造成1D6傷害。 <BR>
@@ -1523,15 +1523,15 @@
                         <!-- 代價 -->
                         <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                         <br/>
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                         <br/>
                         <!-- 取得限制 -->
                         <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級5、被造物、人工才能</div>
                         <br/>
                         <!-- 特技解說 -->
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b>
+                        <p class="skillFunction"><b>效果：</b>
                             你取得一個其他級別，非額外特技的的技能，但你之後無法取得該級別技能。 <BR>
                             技能內文使用級別等級時，以狩獵者級別等級代替。 <BR>
                         </p>
@@ -1549,15 +1549,15 @@
                         <!-- 代價 -->
                         <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                         <br/>
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                         <br/>
                         <!-- 取得限制 -->
                         <div class="skillTh2">取得限制</div><div class="skillTd3">狩獵者等級7、被造物、人工才能</div>
                         <br/>
                         <!-- 特技解說 -->
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b>
+                        <p class="skillFunction"><b>效果：</b>
                             你取得一個起源風格的效果。
                         </p>
                         <!-- 結尾 -->

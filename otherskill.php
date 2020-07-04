@@ -48,7 +48,7 @@
                 <h3 class="skillTitle">四象伏魔陣</h3>
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">準備階段</div>
                 <br/>
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代償傷害35</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害35</div>
                 <br/>
                 <div class="skillTh2 clear">取得限制</div><div class="skillTd3">人物設定必須跟風水師有關</div>
                 <br/>
@@ -65,7 +65,7 @@
                 <h3 class="skillTitle">四象伏魔陣</h3>
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">準備階段</div>
                 <br/>
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代償傷害35</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害35</div>
                 <br/>
                 <div class="skillTh2 clear">取得限制</div><div class="skillTd3">無</div>
                 <br/>

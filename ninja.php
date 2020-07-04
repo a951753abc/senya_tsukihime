@@ -63,7 +63,7 @@
             <div id="description">
                 <h1><a id="description_rank3"></a>取得特技 <a href="#top" style="text-decoration:none;color:#000;">▲</a></h1>
                 <h2>初期取得：<br>獲得「忍者八門」，然後再選擇一個自己喜歡的特技。</h2> 
-                <h2>升級：<br>等級上升之時、選取一個喜歡的特技。每逢５等、１０等時，可以額外再取得一個特技。</h2>
+                <h2>升級：<br>等級上升之時、選取一個喜歡的特技。每逢5等、10等時，可以額外再取得一個特技。</h2>
             </div>
             
             <!-- 分隔線 -->
@@ -203,27 +203,27 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:620px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:620px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3" style="width:590px;">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3" style="width:590px;">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3" style="width:590px;">－</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3" style="width:590px;">-</div>
                             <br/>
                         
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
                             <p class="skillFunction">
-                            <b>効果：</b>你身為忍者的資格，會隨著等級變化。<br>
+                            <b>效果：</b>你身為忍者的資格，會隨著等級變化。<br>
 			    			等級一到三：下忍<BR>
 			    			你空手的傷害成為2D6。 <BR>
 			    			你空手的攻擊類型可成為遠戰。 <BR>
                             在透過交談搜尋情報時獲得+《2》修正。 <BR>
-			    			你獲得〔忍者等級Ｘ8〕的溘鎢斯，每日結束時恢復三分之一。溘鎢斯可以視同集中力使用。 <BR>
+			    			你獲得〔忍者等級X8〕的溘鎢斯，每日結束時恢復三分之一。溘鎢斯可以視同集中力使用。 <BR>
 			    			劇本開始你獲得一忍具。 <BR>
 			    			<BR>
 			    			等級四到六：中忍<BR>
@@ -252,17 +252,17 @@
                             <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">常時</div>
                             <br/>
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             <!-- 取得限制 -->
                             <div class="skillTh2">取得限制</div><div class="skillTd3">下忍</div>
                             <br/>
                         <!-- 特技解說 -->
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>習得此技能時，指定一種異常狀態。你將不會被此異常狀態影響。</p>
+                            <p class="skillFunction"><b>效果：</b>習得此技能時，指定一種異常狀態。你將不會被此異常狀態影響。</p>
                             <!-- 結尾 -->  
                     </div>
                 </skillbox>
@@ -276,17 +276,17 @@
                             <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">常時</div>
                             <br/>
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             <!-- 取得限制 -->
                             <div class="skillTh2">取得限制</div><div class="skillTd3">下忍</div>
                             <br/>
                         <!-- 特技解說 -->
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>劇本開始時，你可設定一個虛構的外貌身分，並擲2D6+《你的忍者等級》作為偽裝基準值。你對未識破你偽裝的人進行偷襲時，成功判定加《你的忍者等級》。識破判定為對方的理智對抗你基準值。</p>
+                            <p class="skillFunction"><b>效果：</b>劇本開始時，你可設定一個虛構的外貌身分，並擲2D6+《你的忍者等級》作為偽裝基準值。你對未識破你偽裝的人進行偷襲時，成功判定加《你的忍者等級》。識破判定為對方的理智對抗你基準值。</p>
                             <!-- 結尾 -->  
                     </div>
                 </skillbox>
@@ -305,11 +305,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -319,7 +319,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>劇本開始前，選擇持有一種忍具。</p>
+                            <p class="skillFunction"><b>效果：</b>劇本開始前，選擇持有一種忍具。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -343,8 +343,8 @@
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">苦無任意數目(不可為零)，傷害代價5點</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -354,7 +354,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>命中即給予對手不良狀態「麻痺」。<BR>
+                            <p class="skillFunction"><b>效果：</b>命中即給予對手不良狀態「麻痺」。<BR>
 							此次攻擊的命中+《代價苦無數目》。
 							此不良狀態持續一回合。
                             </p>
@@ -380,8 +380,8 @@
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">手裏劍1、傷害代價10</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -391,7 +391,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>給予一對手3D6+【你忍者等級】的傷害。<BR>
+                            <p class="skillFunction"><b>效果：</b>給予一對手3D6+【你忍者等級】的傷害。<BR>
 							此次攻擊的命中+5。
                             </p>
                             
@@ -413,11 +413,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害１０</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害10</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -427,7 +427,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>可重新調配近戰、射擊、精神、行動四者數值，但不得為負數。調整數值增減不得超過你的【忍者等級】。</p>
+                            <p class="skillFunction"><b>效果：</b>可重新調配近戰、射擊、精神、行動四者數值，但不得為負數。調整數值增減不得超過你的【忍者等級】。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -447,11 +447,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -461,7 +461,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>你進入「潛行」狀態。你可以無視阻礙移動。每次輪到你行動時，需與其他人進行潛行判定(GM視狀況決定雙方使用何種能力判定)，對象判定失敗時，你對對象的迴避與命中增加《你的忍者等級》。
+                            <p class="skillFunction"><b>效果：</b>你進入「潛行」狀態。你可以無視阻礙移動。每次輪到你行動時，需與其他人進行潛行判定(GM視狀況決定雙方使用何種能力判定)，對象判定失敗時，你對對象的迴避與命中增加《你的忍者等級》。
                             </p>
                             
                         <!-- 結尾 -->     
@@ -485,8 +485,8 @@
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">行動點10</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -496,7 +496,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>1.當你受到近戰攻擊時，可以直接相殺。 <BR>
+                            <p class="skillFunction"><b>效果：</b>1.當你受到近戰攻擊時，可以直接相殺。 <BR>
                             2.當你進行完攻擊時，每使用一次這技能，增加一次額外的空手攻擊判定(無法附加進攻技能，但受常駐能力影響)</p>
                             
                         <!-- 結尾 -->     
@@ -520,8 +520,8 @@
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -531,7 +531,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>你使用忍具進行的攻擊，命中額外增加《你的忍者等級》。你在逃跑上的判定增加《現在回合數》。</p>
+                            <p class="skillFunction"><b>效果：</b>你使用忍具進行的攻擊，命中額外增加《你的忍者等級》。你在逃跑上的判定增加《現在回合數》。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -554,8 +554,8 @@
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -565,7 +565,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>你使用忍具進行的攻擊，傷害額外增加《你的忍者等級》。當你進行迴避判定時，每消耗一忍具，增加迴避判定一點。</p>
+                            <p class="skillFunction"><b>效果：</b>你使用忍具進行的攻擊，傷害額外增加《你的忍者等級》。當你進行迴避判定時，每消耗一忍具，增加迴避判定一點。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -585,11 +585,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:620px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:620px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3" style="width:590px;">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3" style="width:590px;">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -599,7 +599,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>你額外獲得【忍者等級】X2的溘鎢斯，每日結束後自動補充至最大值。 <BR>
+                            <p class="skillFunction"><b>效果：</b>你額外獲得【忍者等級】X2的溘鎢斯，每日結束後自動補充至最大值。 <BR>
                             你可以在攻擊上附加溘鎢斯，每五點溘鎢斯，增加1D6傷害。 <BR>
                             你可以在迴避上附加溘鎢斯，每十點溘鎢斯，增加1D6判定。 <BR>
                             你可以使用溘鎢斯恢復體能狀況，每五點溘鎢斯，恢復1D6。 <BR>
@@ -625,8 +625,8 @@
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害5點</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -636,7 +636,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>此次攻擊，所有角色都無法使用分類中斷的特技，防禦方也無法反擊。</p>
+                            <p class="skillFunction"><b>效果：</b>此次攻擊，所有角色都無法使用分類中斷的特技，防禦方也無法反擊。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -652,15 +652,15 @@
                         
                       
                             <!-- 分類 -->
-                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通常/準備</div>
+                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通用/準備</div>
                             <br/>
                             
                             <!-- 代價 -->
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害10點，忍捲任意數目</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -670,7 +670,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>召喚《每一忍捲一體》的靈。 <BR>
+                            <p class="skillFunction"><b>效果：</b>召喚《每一忍捲一體》的靈。 <BR>
                             召喚《每三捲忍捲一體》的鬼神。使役物和你同區域登場。</p>
                             
                         <!-- 結尾 -->     
@@ -694,8 +694,8 @@
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害80點</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -705,7 +705,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>在戰鬥結束前封印場上所有的召喚物，使其無法參予戰鬥，戰鬥結束前不再被任何技能效果影響。 <BR>
+                            <p class="skillFunction"><b>效果：</b>在戰鬥結束前封印場上所有的召喚物，使其無法參予戰鬥，戰鬥結束前不再被任何技能效果影響。 <BR>
                             並對召喚物主人造成召喚物總合血量的傷害。 <BR>
                             此技能若用在英靈或幻想種的身上，則封印效果改為一回合，對主人的損傷減半。</p>
                             
@@ -730,8 +730,8 @@
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -741,7 +741,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>在你受到【死亡】的一擊時，可以從場景消失並復活，血量恢復至你的殘存溘鎢斯值(最低為1)。 <BR>
+                            <p class="skillFunction"><b>效果：</b>在你受到【死亡】的一擊時，可以從場景消失並復活，血量恢復至你的殘存溘鎢斯值(最低為1)。 <BR>
                             在劇本結束前，全判定上升三。 <BR>
                             此技能一劇本只會發動一次。</p>
                             

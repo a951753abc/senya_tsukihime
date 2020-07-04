@@ -56,7 +56,7 @@
                 <h3 class="skillTitle">背反律「肉食獸的本能」</h3>
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通用</div>
                 <br/>
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">恢復２０點ＨＰ</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">恢復20點HP</div>
                 <br/>
                 <div class="skillTh2 clear">級別限制</div><div class="skillTd3">無</div>
                 <br/>
@@ -65,7 +65,7 @@
                 <div class="skillTh2">代表角色</div><div class="skillTd3">白純里緒</div>
                 <br/>
                 <p class="skillFunction"><b>效果：</b>
-                    你的【近戰】＋６。 <BR>
+                    你的【近戰】+6。 <BR>
                     使用後，你只能使用近戰特技。這個效果持續到戰鬥結束。
                 </p>
                 <h3 class="skillTitle">風格覺醒</h3>
@@ -96,8 +96,8 @@
                 <div class="skillTh2">代表角色</div><div class="skillTd3">兩儀式</div>
                 <br/>
                 <p class="skillFunction"><b>效果：</b> <BR>
-                    你能加算情緒值的感情只有無關心。 但是這絆值＋１。 <BR>
-                    你的傷害常時－３，但是與攻擊對象的感情並非是無關心時，全判定＋１，傷害＋１。
+                    你能加算TP的感情只有無關心。 但是這絆值+1。 <BR>
+                    你的傷害常時-3，但是與攻擊對象的感情並非是無關心時，全判定+1，傷害+1。
                 </p>
                 <h3 class="skillTitle">風格反抗</h3>
                 <div class="skillTh clear">條件</div><div class="skillTd" style="width:265px;">不限單一劇本，進行三次感情對決，轉換無關心</div>
@@ -127,8 +127,8 @@
                 <div class="skillTh2">代表角色</div><div class="skillTd3">黑桐鮮花</div>
                 <br/>
                 <p class="skillFunction"><b>效果：</b>
-                    你在角色表設定一名血親角色，並且有「獨佔欲」。此絆值１０點，並且無法由感情對決消失。 <BR>
-                    如果你的血親跟你都處於戰鬥場景，你的全判定＋２。如果血親死亡，你的全判定－１０。
+                    你在角色表設定一名血親角色，並且有「獨佔欲」。此絆值10點，並且無法由感情對決消失。 <BR>
+                    如果你的血親跟你都處於戰鬥場景，你的全判定+2。如果血親死亡，你的全判定-10。
                 </p>
                 <h3 class="skillTitle">風格覺醒</h3>
                 <div class="skillTh clear">條件</div><div class="skillTd" style="width:265px;">對血親角色獨佔欲進行感情對決</div>
@@ -148,7 +148,7 @@
                 <h3 class="skillTitle">背反律「靜止的世界」</h3>
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">中斷</div>
                 <br/>
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">劇本結束後得到經驗－２</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">劇本結束後得到經驗-2</div>
                 <br/>
                 <div class="skillTh2 clear">級別限制</div><div class="skillTd3">無</div>
                 <br/>
@@ -158,7 +158,7 @@
                 <br/>
                 <p class="skillFunction"><b>效果：</b>
                     <BR>
-                    你在對決判定時使用，對方達成值變成０。<BR>
+                    你在對決判定時使用，對方達成值變成0。<BR>
                 </p>
                 <h3 class="skillTitle">風格覺醒</h3>
                 <div class="skillTh clear">條件</div><div class="skillTd" style="width:265px;">使用此背反律兩次</div>
@@ -178,7 +178,7 @@
                 <h3 class="skillTitle">背反律「俯瞰風景」</h3>
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:630px;">常時／準備階段</div>
                 <br/>
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">－</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">-</div>
                 <br/>
                 <div class="skillTh2 clear">級別限制</div><div class="skillTd3">無</div>
                 <br/>
@@ -186,10 +186,10 @@
                 <br/>
                 <div class="skillTh2">代表角色</div><div class="skillTd3">秋堂秋緒</div>
                 <br/>
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     <BR>
                     你能夠改變自我認知，使自己產生在天空浮游的錯覺。 <BR>
-                    戰鬥中使用【近戰】＋３，【射擊】－３，此效果持續到場景終了。
+                    戰鬥中使用【近戰】+3，【射擊】-3，此效果持續到場景終了。
                 </p>
             </div>
         </skillbox>
@@ -226,7 +226,7 @@
                 <h3 class="skillTitle">背反律「憎惡的肖像」</h3>
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">中斷</div>
                 <br/>
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">情緒點歸零</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">TP點歸零</div>
                 <br/>
                 <div class="skillTh2 clear">級別限制</div><div class="skillTd3">無</div>
                 <br/>
@@ -251,7 +251,7 @@
                 <h3 class="skillTitle">背反律「生命的意義」</h3>
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">中斷</div>
                 <br/>
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">情緒點歸零</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">TP點歸零</div>
                 <br/>
                 <div class="skillTh2 clear">級別限制</div><div class="skillTd3">無</div>
                 <br/>
@@ -274,7 +274,7 @@
                 <h3 class="skillTitle">背反律「異性不信」</h3>
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">常時</div>
                 <br/>
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                 <br/>
                 <div class="skillTh2 clear">級別限制</div><div class="skillTd3">無</div>
                 <br/>
@@ -297,7 +297,7 @@
                 <h3 class="skillTitle">背反律「愚忠」</h3>
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">準備階段</div>
                 <br/>
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                 <br/>
                 <div class="skillTh2 clear">級別限制</div><div class="skillTd3">無</div>
                 <br/>
@@ -307,7 +307,7 @@
                 <br/>
                 <p class="skillFunction"><b>效果：</b>
                     <BR>
-                    你的ＨＰ恢復４０點。
+                    你的HP恢復40點。
                 </p>
             </div>
         </skillbox>
@@ -320,7 +320,7 @@
                 <h3 class="skillTitle">背反律「強者的驕傲」</h3>
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">中斷</div>
                 <br/>
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                 <br/>
                 <div class="skillTh2 clear">級別限制</div><div class="skillTd3">無</div>
                 <br/>
@@ -343,7 +343,7 @@
                 <h3 class="skillTitle">背反律「贖罪之聲」</h3>
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:630px;">通用</div>
                 <br/>
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">－</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">-</div>
                 <br/>
                 <div class="skillTh2 clear">級別限制</div><div class="skillTd3">無</div>
                 <br/>
@@ -351,9 +351,9 @@
                 <br/>
                 <div class="skillTh2">代表角色</div><div class="skillTd3">第五次SABER</div>
                 <br/>
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     <BR>
-                    你的情緒值上升４０點。於戰鬥結束，或是場景結束時情緒值歸零。
+                    你的TP上升40點。於戰鬥結束，或是場景結束時TP歸零。
                 </p>
             </div>
         </skillbox>
@@ -367,7 +367,7 @@
                 <h3 class="skillTitle">背反律「與我一戰！」</h3>
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">常時</div>
                 <br/>
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                 <br/>
                 <div class="skillTh2 clear">級別限制</div><div class="skillTd3">劍士或是武鬥家</div>
                 <br/>
@@ -377,7 +377,7 @@
                 <br/>
                 <p class="skillFunction"><b>效果：</b>
                     <BR>
-                    你與「敵手」一戰時，命中與傷害達成值＋１Ｄ６。
+                    你與「敵手」一戰時，命中與傷害達成值+1D6。
                 </p>
             </div>
         </skillbox>
@@ -390,7 +390,7 @@
                 <h3 class="skillTitle">背反律「光所射向的彼方」</h3>
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">常時</div>
                 <br/>
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                 <br/>
                 <div class="skillTh2 clear">級別限制</div><div class="skillTd3">無</div>
                 <br/>
@@ -400,7 +400,7 @@
                 <br/>
                 <p class="skillFunction"><b>效果：</b>
                     <BR>
-                    對行動完成的角色一人使用，對象獲得１０點行動點，你變成行動完成狀態。
+                    對行動完成的角色一人使用，對象獲得10點行動點，你變成行動完成狀態。
                 </p>
             </div>
         </skillbox>
@@ -413,7 +413,7 @@
                 <h3 class="skillTitle">背反律「陰陽刻印」</h3>
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">常時</div>
                 <br/>
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                 <br/>
                 <div class="skillTh2 clear">級別限制</div><div class="skillTd3">古神道</div>
                 <br/>
@@ -423,7 +423,7 @@
                 <br/>
                 <p class="skillFunction"><b>效果：</b>
                     <BR>
-                    你的陰陽道等級＋１。 <BR>
+                    你的陰陽道等級+1。 <BR>
                     你須對自己設定責任。
                 </p>
             </div>
@@ -437,7 +437,7 @@
                 <h3 class="skillTitle">背反律「魔術刻印」</h3>
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">常時</div>
                 <br/>
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                 <br/>
                 <div class="skillTh2 clear">級別限制</div><div class="skillTd3">魔術師</div>
                 <br/>
@@ -464,7 +464,7 @@
                 <h3 class="skillTitle">背反律「鏡影」</h3>
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:630px;">常時</div>
                 <br/>
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">－</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">-</div>
                 <br/>
                 <div class="skillTh2 clear">級別限制</div><div class="skillTd3">無</div>
                 <br/>
@@ -491,7 +491,7 @@
                 <h3 class="skillTitle">背反律「真誥」</h3>
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:630px;">常時</div>
                 <br/>
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">－</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">-</div>
                 <br/>
                 <div class="skillTh2 clear">級別限制</div><div class="skillTd3">無</div>
                 <br/>
@@ -533,7 +533,7 @@
                     每遇到PC/NPC時，能夠藉由知覺判定來得知該PC/NPC的背反律可能性。 <BR>
                     除了會心的時候必定猜出外，其餘依照達成值讓GM給予不等數目的可能性給你猜測。 <BR>
                     可能性其中必定有一為真，一名PC/NPC限定行使一次。 <BR>
-                    當你猜測錯誤時，你的情緒值上升1D6；猜測正確時，對該名PC/NPC放置感情「優越感」。
+                    當你猜測錯誤時，你的TP上升1D6；猜測正確時，對該名PC/NPC放置感情「優越感」。
                 </p>
             </div>
         </skillbox>

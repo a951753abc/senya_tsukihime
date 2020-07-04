@@ -207,20 +207,20 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">－</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">-</div>
                             <br/>
                         
                         <!-- 特技解說 -->                    
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>當你沒有其他攻擊類型時，你以能夠隨手抄起的物品作為武器，給予對象《2D6》點傷害。攻擊之後該物品無法再使用。這個技能無法作反擊使用。</p>
+                            <p class="skillFunction"><b>效果：</b>當你沒有其他攻擊類型時，你以能夠隨手抄起的物品作為武器，給予對象《2D6》點傷害。攻擊之後該物品無法再使用。這個技能無法作反擊使用。</p>
                         <!-- 結尾 -->  
                     </div>
                 </skillbox>
@@ -242,19 +242,19 @@
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害4</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">－</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">-</div>
                             <br/>
                         
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
                             <p class="skillFunction">
-                            	<b>効果：</b>一個場景一次，使用未曾用過的攻擊類型時，命中與傷害增加《1D6》。
+                            	<b>效果：</b>一個場景一次，使用未曾用過的攻擊類型時，命中與傷害增加《1D6》。
             				</p>
                             
                         <!-- 結尾 -->                        
@@ -278,18 +278,18 @@
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害10</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">－</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">-</div>
                             <br/>
                         
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>自己設定一個合理的方式，製造出《1D6+1》個人在做些什麼行動的錯覺，混亂他人。錯覺的位置不限於你所在的場景，但需取得GM的同意。由於只是「好像有人在行動」的錯覺，不會因此達成什麼行為。
+                            <p class="skillFunction"><b>效果：</b>自己設定一個合理的方式，製造出《1D6+1》個人在做些什麼行動的錯覺，混亂他人。錯覺的位置不限於你所在的場景，但需取得GM的同意。由於只是「好像有人在行動」的錯覺，不會因此達成什麼行為。
 一般情形下效果持續到時間段轉換，特殊場景中持續到場景終了。戰鬥中無法使用。
                             </p>
                             
@@ -312,21 +312,21 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">10（推論正確時）</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">10（推論正確時）</div>
                             <br/>
                             
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">－</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">-</div>
                             <br/>
                         
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>一劇本[左道等級/2]次，你能得知一個假設的對或錯。
+                            <p class="skillFunction"><b>效果：</b>一劇本[左道等級/2]次，你能得知一個假設的對或錯。
                             </p>
                             
                         <!-- 結尾 -->     
@@ -347,21 +347,21 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">－</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">-</div>
                             <br/>
                         
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>當你在「混亂戰術」效果期間，進行搜查/情報判定時，可以指定自己所在地以外的場景。
+                            <p class="skillFunction"><b>效果：</b>當你在「混亂戰術」效果期間，進行搜查/情報判定時，可以指定自己所在地以外的場景。
                             </p>
                             
                         <!-- 結尾 -->     
@@ -385,18 +385,18 @@
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害5</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">－</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">-</div>
                             <br/>
                         
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>一個劇本可以使用[你的左道等級]次，指定同區域一個角色，消去該角色的一個狀態。
+                            <p class="skillFunction"><b>效果：</b>一個劇本可以使用[你的左道等級]次，指定同區域一個角色，消去該角色的一個狀態。
                             </p>
                             
                         <!-- 結尾 -->     
@@ -417,22 +417,22 @@
                             <br/>
 
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
 
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
 
                             <!-- 取得限制 -->
-                            <div class="skillTh2">取得限制</div><div class="skillTd3">－</div>
+                            <div class="skillTh2">取得限制</div><div class="skillTd3">-</div>
                             <br/>
 
                         <!-- 特技解說 -->
 
                             <!-- 效果 -->
                             <p class="skillFunction">
-                                <b>効果：</b>
+                                <b>效果：</b>
                                 指定一個你放置兩個白色感情的對象（或者劇情發展上相當且GM同意的對象），一起行動時你的達成值+2。
                                 你可以更換此技能的對象，但是同時最多只有[你的左道等級/2]人。效果不會累加。 <BR>
                                 你可以再取得一個同行者相關的技能。
@@ -456,22 +456,22 @@
                         <br/>
 
                         <!-- 代價 -->
-                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                        <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                         <br/>
 
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">5</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">5</div>
                         <br/>
 
                         <!-- 取得限制 -->
-                        <div class="skillTh2">取得限制</div><div class="skillTd3">－</div>
+                        <div class="skillTh2">取得限制</div><div class="skillTd3">-</div>
                         <br/>
 
                         <!-- 特技解說 -->
 
                         <!-- 效果 -->
                         <p class="skillFunction">
-                            <b>効果：</b>
+                            <b>效果：</b>
                             當你在同行者之前攻擊時，你本次命中必定失敗，同行者的達成值+4。
                         </p>
 
@@ -496,8 +496,8 @@
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">傷害代價2點</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -507,7 +507,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>當你接在同行者下一個行動，且使用不同命中判定的攻擊類型，達成值+2。</p>
+                            <p class="skillFunction"><b>效果：</b>當你接在同行者下一個行動，且使用不同命中判定的攻擊類型，達成值+2。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -530,8 +530,8 @@
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">傷害代價2點</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -541,7 +541,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>當你與同行者同時攻擊(或同行動點進行攻擊)時，同行者的達成值+2。</p>
+                            <p class="skillFunction"><b>效果：</b>當你與同行者同時攻擊(或同行動點進行攻擊)時，同行者的達成值+2。</p>
                             
                         <!-- 結尾 -->     
                     </div>
@@ -561,11 +561,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">5</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">5</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -575,7 +575,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>
+                            <p class="skillFunction"><b>效果：</b>
                             	這個技能不是攻擊類型，但以攻擊類型的方式使用。當你以此技能對複數攻擊宣言反擊且成功時、或者緊接複數攻擊下一個行動使用時，通過12-《知覺》的體力判定可以馬上逃離戰鬥。反擊時以你最高的戰鬥值作命中判定。
                             </p>
                             
@@ -592,17 +592,17 @@
                             <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">中斷</div>
                             <br/>
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">5</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">5</div>
                             <br/>
                             <!-- 取得限制 -->
                             <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
                             <br/>
                         <!-- 特技解說 -->
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>
+                            <p class="skillFunction"><b>效果：</b>
                                 使用亂戰脫離時可發動，你可以帶同行者一同逃跑，每一個同行者判定難度+2。
                             </p>
                         <!-- 結尾 -->     
@@ -620,15 +620,15 @@
                             <!-- 代價 -->
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">5TP（準備階段）</div>
                             <br/>
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">5</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">5</div>
                             <br/>
                             <!-- 取得限制 -->
                             <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
                             <br/>
                         <!-- 特技解說 -->
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>
+                            <p class="skillFunction"><b>效果：</b>
                                 你懂得使用他人無法行走之路徑的技巧，地圖移動時時間縮短為50%。在準備階段使用時，你可以增加5點行動或3點逃跑達成值，但一次只能選一個使用。 <BR>
                                 選擇逃跑時，無法和戰術轉進一起使用。
                             </p>
@@ -647,15 +647,15 @@
                             <!-- 代價 -->
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">5（使用攻擊類型命中時）</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">5（使用攻擊類型命中時）</div>
                             <br/>
                             <!-- 取得限制 -->
                             <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
                             <br/>
                         <!-- 特技解說 -->
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>
+                            <p class="skillFunction"><b>效果：</b>
                                 指定一個攻擊類型，視為不存在，你能指定的數量為[你的左道等級/2]個。 <BR>
                                 當你第一次使用該攻擊類型時，命中+1D6，並失去隱藏武器的效果，此後無法再隱藏。 <BR>
                                 此技能無法與隨選武器和現地改造搭配使用。
@@ -670,20 +670,20 @@
                         <h3 class="skillTitle">竊聽</h3>
                         <!-- 特技設定 -->
                             <!-- 分類 -->
-                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通常</div>
+                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通用</div>
                             <br/>
                             <!-- 代價 -->
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害10點</div>
                             <br/>
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             <!-- 取得限制 -->
                             <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
                             <br/>
                         <!-- 特技解說 -->
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>
+                            <p class="skillFunction"><b>效果：</b>
                                 指定一個密閉環境（上下四方有牆，但不必是密室狀態），設置一個竊聽裝置，你能同時設置[你的左道等級/3]個。 <BR>
                                 設置時擲《2D6+[你的左道等級]+[理智]》作為基本值，察覺的判定為對方的知覺對抗你的基本值。
                             </p>
@@ -702,15 +702,15 @@
                         <!-- 代價 -->
                         <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                         <br/>
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                         <br/>
                         <!-- 取得限制 -->
                         <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
                         <br/>
                         <!-- 特技解說 -->
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b>
+                        <p class="skillFunction"><b>效果：</b>
                             你所有技能中使用左道等級計算的項目，以等級+2去計算。
                         </p>
                         <!-- 結尾 -->
@@ -745,8 +745,8 @@
                         <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">代價傷害20點</div>
                         <br/>
 
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                         <br/>
 
                         <!-- 取得限制 -->
@@ -756,7 +756,7 @@
                         <!-- 特技解說 -->
 
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b>
+                        <p class="skillFunction"><b>效果：</b>
                             一個場景一次。 <BR>
                             戰鬥中你可以從任意區域對敵方後排進行攻擊，並在攻擊結束後回到任意區域。 <BR>
                             如你在相同場景但不在戰鬥之中，你可以立刻加入戰鬥對敵方後排進行攻擊，並在攻擊結束後回到任意區域。 <BR>
@@ -784,8 +784,8 @@
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害10點</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -795,7 +795,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>
+                            <p class="skillFunction"><b>效果：</b>
                                 指定一個密閉環境（上下四方有牆，但不必是密室狀態），設置一個對人陷阱，當他人進入此空間時發動，造成《2D6+ [你的左道等級/2]》的傷害，你能同時設置[你的左道等級/3]個。 <BR>
                                 設置時擲《2D6+[你的左道等級]+[理智]》作為基本值，察覺的判定為對方的知覺對抗你的基本值。 <BR>
                             </p>
@@ -823,8 +823,8 @@
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害15點</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -834,7 +834,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>實際傷害後效果。當你使用戰術分配或聲東擊西的攻擊造成傷害時，你能夠再進行一次傷害值骰。 <BR>
+                            <p class="skillFunction"><b>效果：</b>實際傷害後效果。當你使用戰術分配或聲東擊西的攻擊造成傷害時，你能夠再進行一次傷害值骰。 <BR>
                                 此技能與戰術分配或聲東擊西視為一個技能。
                             </p>
                             
@@ -861,8 +861,8 @@
                         <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害15點</div>
                         <br/>
 
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                         <br/>
 
                         <!-- 取得限制 -->
@@ -872,7 +872,7 @@
                         <!-- 特技解說 -->
 
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b> <BR>
+                        <p class="skillFunction"><b>效果：</b> <BR>
                             一場戰鬥一次，當你命中判定結束時，發動此技能可以讓同行者立刻進行攻擊（視為同時攻擊）。 <BR>
                             該次攻擊不能使用有待機延遲的技能，但如果此時同行者已在待機中，則視為待機完成。 <BR>
                         </p>
@@ -900,8 +900,8 @@
                         <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                         <br/>
 
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                         <br/>
 
                         <!-- 取得限制 -->
@@ -911,7 +911,7 @@
                         <!-- 特技解說 -->
 
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b> <BR>
+                        <p class="skillFunction"><b>效果：</b> <BR>
                             你的技能竊聽和對人陷阱的設置數量變更為[你的左道等級/3*2]個。 <BR>
                             對人陷阱能選擇以遙控引爆。
                         </p>
@@ -935,11 +935,11 @@
                             <br/>
                             
                             <!-- 代價 -->
-                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                            <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -949,7 +949,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>
+                            <p class="skillFunction"><b>效果：</b>
                                 以你擁有的一個級別為對象，可以用[你的左道等級]+[該級別等級]取得一個技能（仍然要滿足其他取得限制）。 <BR>
                                 此後該級別技能中使用[等級]的敘述加上[你的左道等級/2]，你無法再取得該級別的技能。 <BR>
                                 本技能不適用常住戰陣的效果。
@@ -970,15 +970,15 @@
                         
                       
                             <!-- 分類 -->
-                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通常／準備</div>
+                            <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通用／準備</div>
                             <br/>
                             
                             <!-- 代價 -->
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害10點</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -988,7 +988,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>你所有左道技能的《》+[意志]。</p>
+                            <p class="skillFunction"><b>效果：</b>你所有左道技能的《》+[意志]。</p>
                             
                         <!-- 結尾 -->     
                                              
@@ -1012,8 +1012,8 @@
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">代價傷害5點</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -1023,7 +1023,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>
+                            <p class="skillFunction"><b>效果：</b>
 最高可裝填五發彈藥，指定一個對象及彈藥數，每一發可造成2D6的傷害。 <BR>
 本技能可以視作銃與其他技能搭配。在戰鬥中填裝一枚彈藥需消耗一個準備或主要階段。 <br>
 你可以將一個負面感情填裝為彈藥，獲得「攻擊力增加絆值」或「命中增加絆值」之一的效果，發射之後該感情消失。當感情的對象為同行者時，可以使用正面感情，並且不會消失。 <br>
@@ -1053,8 +1053,8 @@
                         <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">-</div>
                         <br/>
 
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">成功時上升2</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">成功時上升2</div>
                         <br/>
 
                         <!-- 取得限制 -->
@@ -1064,7 +1064,7 @@
                         <!-- 特技解說 -->
 
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b>
+                        <p class="skillFunction"><b>效果：</b>
                             通過一個目標值為12的2D6+[左道等級]判定。成功的話在準備階段每消耗10點行動，可以裝填一發彈藥。
                         </p>
 
@@ -1083,15 +1083,15 @@
 
 
                         <!-- 分類 -->
-                        <div class="skillTh clear">分類</div><div class="skillTd" style="width:630px;">通常</div>
+                        <div class="skillTh clear">分類</div><div class="skillTd" style="width:630px;">通用</div>
                         <br/>
 
                         <!-- 代價 -->
                         <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">-</div>
                         <br/>
 
-                        <!-- 情緒獎勵 -->
-                        <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">-</div>
+                        <!-- TP獎勵 -->
+                        <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">-</div>
                         <br/>
 
                         <!-- 取得限制 -->
@@ -1101,7 +1101,7 @@
                         <!-- 特技解說 -->
 
                         <!-- 效果 -->
-                        <p class="skillFunction"><b>効果：</b> <BR>
+                        <p class="skillFunction"><b>效果：</b> <BR>
                             藉由改造呪法兵裝，你能夠透過兵裝發射其他攻擊類型/射擊的技能，並在攻擊上附加一個負面感情，獲得「攻擊力增加絆值」或「命中增加絆值」之一的效果，發射之後該感情消失。 <BR>
                             當感情的對象為同行者時，可以使用正面感情，並且不會消失。 <BR>
                             如果你是背反者，發射後感情不會消失，而實傷後對象的未使用感情增加該項感情。 <BR>
@@ -1130,8 +1130,8 @@
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">傷害代價20點</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -1141,7 +1141,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>
+                            <p class="skillFunction"><b>效果：</b>
                                 一劇本可以使用[你的左道等級/2]次。 <BR>
                                 此次攻擊為全區域攻擊，以同行者以外所有人為對象。 <BR>
 以能夠推動或自行移動的物品作為武器，雙方必須使用《[理智]+[意志]》進行命中迴避判定，給予對象《2D20》點傷害。攻擊之後該物品無法再使用。

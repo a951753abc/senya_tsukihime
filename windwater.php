@@ -67,7 +67,7 @@
     <div id="description">
         <h1><a id="description_rank3"></a>取得特技 <a href="#top" style="text-decoration:none;color:#000;">▲</a></h1>
         <h2>初期取得：<br>得到「鬼神崇拜」，然後再選擇一個自己喜歡的特技。 </h2>
-        <h2>升級：<br>等級上升之時、選取一個喜歡的特技。每逢５等、１０等時，可以額外再取得一個特技。</h2>
+        <h2>升級：<br>等級上升之時、選取一個喜歡的特技。每逢5等、10等時，可以額外再取得一個特技。</h2>
     </div>
 
     <!-- 分隔線 -->
@@ -200,20 +200,20 @@
                 <h3 class="skillTitle">鬼神崇拜</h3>
                 <!-- 特技設定 -->
                 <!-- 分類 -->
-                <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">常時／通常</div>
+                <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">常時／通用</div>
                 <br/>
                 <!-- 代價 -->
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                 <br/>
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
                 <!-- 取得限制 -->
                 <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
                 <br/>
                 <!-- 特技解說 -->
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     你的精神判定+3，TP上限增加【風水士等級】*10。 <BR>
                     進入【行動不能】或【行動完成】時可以宣言這個特技。 <BR>
                     進行難度16的精神檢定，成功恢復生命值1或行動點數1。 <BR>
@@ -235,8 +235,8 @@
                 <!-- 代價 -->
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">—</div>
                 <br/>
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">2</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">2</div>
                 <br/>
                 <!-- 取得限制 -->
                 <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
@@ -244,7 +244,7 @@
                 <!-- 特技解說 -->
                 <!-- 效果 -->
                 <p class="skillFunction">
-                    <b>効果：</b>
+                    <b>效果：</b>
                     <BR>
                     指定一個對象給予1D6+【風水士等級】點無視防禦傷害。 <BR>
                     指定同區域的對象攻擊時，命中判定得到【風水士等級】點補正。 <BR>
@@ -265,17 +265,17 @@
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">攻擊類型／射擊</div>
                 <br/>
                 <!-- 代價 -->
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                 <br/>
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">2</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">2</div>
                 <br/>
                 <!-- 取得限制 -->
                 <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
                 <br/>
                 <!-- 特技解說 -->
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     <BR>
                     指定一個、或兩個對象給予(【知覺】D6)傷害。 <BR>
                     指定兩個對象時坐取風刀的射程縮減為相鄰區域。 <BR>
@@ -296,17 +296,17 @@
                 <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">常時</div>
                 <br/>
                 <!-- 代價 -->
-                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">－</div>
+                <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">-</div>
                 <br/>
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">無</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">無</div>
                 <br/>
                 <!-- 取得限制 -->
                 <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
                 <br/>
                 <!-- 特技解說 -->
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     你的「籤」增加下面效果： <BR>
                     每消耗一個，可對全區域任意對象解除一個不良狀態，回復【風水士等級】點HP。 <BR>
                     一場戰鬥最多使用你的【風水士等級】次。
@@ -326,15 +326,15 @@
                 <!-- 代價 -->
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">—</div>
                 <br/>
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">無</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">無</div>
                 <br/>
                 <!-- 取得限制 -->
                 <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
                 <br/>
                 <!-- 特技解說 -->
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     你的「雁風」增加下面效果： <BR>
                     持有時，坐取風刀追加1D6+【雁風數量*2】風屬性傷害。 <BR>
                     每一個「雁風」都帶來【知覺】+1(不影響戰鬥能力加算)及【射擊】+1。 <BR>
@@ -356,15 +356,15 @@
                 <!-- 代價 -->
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">待機時間3</div>
                 <br/>
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">2</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">2</div>
                 <br/>
                 <!-- 取得限制 -->
                 <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
                 <br/>
                 <!-- 特技解說 -->
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     和風水士特技「雲笈七籤」或「坐取風刀」組合使用。可額外搭配進攻特技。 <BR>
                     <BR>
                     ●雲笈七籤：即使攻擊不同區域的對象也能得到命中補正 <BR>
@@ -380,20 +380,20 @@
                 <h3 class="skillTitle">巫山桃生</h3>
                 <!-- 特技設定 -->
                 <!-- 分類 -->
-                <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通常／進攻/射擊</div>
+                <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通用／進攻/射擊</div>
                 <br/>
                 <!-- 代價 -->
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害4</div>
                 <br/>
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
                 <!-- 取得限制 -->
                 <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
                 <br/>
                 <!-- 特技解說 -->
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     實際傷害後效果，給予不良狀態「毒」。 <BR>
                     消耗一個「籤」的話改為命中成功後給予不良狀態「毒」。 <BR>
                     戰鬥外可對食物下毒，發覺毒需要通過難度6+【風水士等級】+下毒時「籤」數目的知覺檢定。
@@ -412,15 +412,15 @@
                 <!-- 代價 -->
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害4</div>
                 <br/>
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
                 <!-- 取得限制 -->
                 <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
                 <br/>
                 <!-- 特技解說 -->
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     搭配的攻擊技能視為概念武裝。 <BR>
                     對非人級別、背反者、敵人、英靈傷害增加【風水士等級】點。 <BR>
                     消耗一個「雁風」的話實際傷害變為兩倍。 <BR>
@@ -439,15 +439,15 @@
                 <!-- 代價 -->
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害30</div>
                 <br/>
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
                 <!-- 取得限制 -->
                 <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
                 <br/>
                 <!-- 特技解說 -->
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     和風水士特技「雲笈七籤」或「坐取風刀」組合使用。可額外搭配進攻特技。 <BR>
                     實際傷害後額外得到1個「籤」以及「雁風」。
                     宣言時每持有「籤」、「雁風」任意一種狀態代價傷害就降低15
@@ -473,8 +473,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害8</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -484,7 +484,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     這回合所有源自於你的傷害+[風水士級別等級]點(包括不良狀態所造成的傷害)。 <BR>
                     宣言這個技能後擲一個1D6，依照單、雙數結果套用下面效果： <BR>
                     ●單數：你獲得特技「雲笈七籤」；已持有該特技則直接得到「籤」狀態。 <BR>
@@ -513,8 +513,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害10</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -525,7 +525,7 @@
 
                 <!-- 效果 -->
                 <p class="skillFunction">
-                    <b>効果：</b>
+                    <b>效果：</b>
                     除了你以外同區域的所有己方角色為對象。 <BR>
                     對象該回合攻擊類型特技追加1D6傷害。 <BR>
                     消耗一個「雁風」的話額外增加[你的風水士級別等級]點傷害。 <BR>
@@ -553,8 +553,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害30-[持有籤個數*5]</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">20(動物靈被擊倒時取得)</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">20(動物靈被擊倒時取得)</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -564,7 +564,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     你召喚一隻動物靈和你同區域登場。 <BR>
                     動物靈所在的區域，所有己方角色得到迴避、對抗判定+1的獎勵。 <BR>
                     你得到「籤」或「雁風」時可以額外多得到1個。 <BR>
@@ -588,15 +588,15 @@
                 <!-- 代價 -->
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害30-[持有雁風個數*5]</div>
                 <br/>
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
                 <!-- 取得限制 -->
                 <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
                 <br/>
                 <!-- 特技解說 -->
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     你召喚一隻自然之靈，結束階段前成為你的特技。 <BR>
                     這特技具有給予防禦側最大生命值50%傷害的能力。 <BR>
                     攻擊時防禦側進行難度《5》的意志檢定，失敗的話才會受到傷害。 <BR>
@@ -617,15 +617,15 @@
                 <!-- 代價 -->
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害8</div>
                 <br/>
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
                 <!-- 取得限制 -->
                 <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
                 <br/>
                 <!-- 特技解說 -->
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     一戰鬥一回，指定同區域一個行動擲骰結束、擲骰低於你的角色為對象。 <BR>
                     對象和你都進入[行動完成狀態]。 <BR>
                     消耗一個「籤」或「雁風」的話，可以從全區域中選擇對象。
@@ -645,18 +645,18 @@
                 <!-- 代價 -->
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">─</div>
                 <br/>
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
                 <!-- 取得限制 -->
                 <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
                 <br/>
                 <!-- 特技解說 -->
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     一日最多一回，從下列效果中擇一使用： <BR>
-                    ●消耗10點情緒值，回復15+[籤數量*2]點生命值 <BR>
-                    ●消耗10點生命值，回復25+[雁風數量*2]點情緒值 <BR>
+                    ●消耗10點TP，回復15+[籤數量*2]點生命值 <BR>
+                    ●消耗10點生命值，回復25+[雁風數量*2]點TP <BR>
                 </p>
                 <!-- 結尾 -->
             </div>
@@ -668,23 +668,23 @@
                 <h3 class="skillTitle">元玄生陰</h3>
                 <!-- 特技設定 -->
                 <!-- 分類 -->
-                <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通常</div>
+                <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通用</div>
                 <br/>
                 <!-- 代價 -->
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害6-[籤數量]</div>
                 <br/>
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
                 <!-- 取得限制 -->
                 <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
                 <br/>
                 <!-- 特技解說 -->
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     戰鬥外使用。使用【體力】的檢定改為用【知覺】檢定； <BR>
-                    使用【知覺】檢定的判定得到會心－《１》的獎勵。 <BR>
-                    每追加消耗一個雁風就可以在通常判定重新擲骰一回。
+                    使用【知覺】檢定的判定得到會心-《1》的獎勵。 <BR>
+                    每追加消耗一個雁風就可以在通用判定重新擲骰一回。
                 </p>
                 <!-- 結尾 -->
             </div>
@@ -714,17 +714,17 @@
                 <!-- 代價 -->
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">─</div>
                 <br/>
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
                 <!-- 取得限制 -->
                 <div class="skillTh2">取得限制</div><div class="skillTd3">「鬼神崇拜」、「喚術任一」</div>
                 <br/>
                 <!-- 特技解說 -->
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     對你「喚術」技能賦予四方的意義，一次只能附予一種效果。 <BR>
-                    ●朱雀：同區域己方角色情緒獎勵+2D6。 <BR>
+                    ●朱雀：同區域己方角色TP獎勵+2D6。 <BR>
                     ●玄武：同區域己方角色防禦力+[風水士級別等級]點。 <BR>
                     ●青龍：自然之靈的判定難度增加[風水士級別等級/2]點。 <BR>
                     ●白虎：自然之靈的判定進行兩次、取其低者。 <BR>
@@ -744,15 +744,15 @@
                 <!-- 代價 -->
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害30-[已經召喚動物靈的話減10]</div>
                 <br/>
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
                 <!-- 取得限制 -->
                 <div class="skillTh2">取得限制</div><div class="skillTd3">無</div>
                 <br/>
                 <!-- 特技解說 -->
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     指定一個戰鬥區域，當中所有己方角色為對象。 <BR>
                     得到5*《消耗雁風數量》點的虛擬生命值，受到的傷害優先從中扣除。 <BR>
                     若已召喚四方四象的動物靈，範圍變更為全區域覆蓋。四方四象的輔助效果也會因此延伸為全區域。 <BR>
@@ -778,8 +778,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害30-[已經召喚自然之靈的話減10]</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -789,7 +789,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     指定一個戰鬥區域，當中所有己方角色為對象。 <BR>
                     攻擊時得到[消耗雁風數量/2]D6的追加傷害。 <BR>
                     如果同時召喚有四相之力的動物靈，範圍變更為全區域覆蓋。 <BR>
@@ -818,8 +818,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害25、待機時間7</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">０</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -829,7 +829,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     每持有「籤」、「雁風」任意一個狀態追加3D6傷害與1D6命中。 <BR>
                     主要階段結束後解除所有的「籤」、「雁風」並進入行動完成狀態。 <BR><BR><BR><BR><BR>
                 </p>
@@ -847,15 +847,15 @@
                 <!-- 特技設定 -->
 
                 <!-- 分類 -->
-                <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通常</div>
+                <div class="skillTh clear">分類</div><div class="skillTd" style="width:265px;">通用</div>
                 <br/>
 
                 <!-- 代價 -->
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害12</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">5</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">5</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -865,7 +865,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     必須持有7個籤以上才能宣言技能。 <BR>
                     消耗掉籤後，你可以從下面道具擇一取得。 <BR>
                     ●修身千二百歲矣：瞬間恢復一個同區域的對象最大生命的70% <BR>
@@ -898,8 +898,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">行動點數20</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">0</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">0</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -909,7 +909,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     和揮斥八極組合使用。 <BR>
                     該回攻擊射程改為指定一個喜歡的區域攻擊該區域所有敵方角色。 <BR>
                     <BR>
@@ -939,8 +939,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害15+籤</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">5</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">5</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -950,7 +950,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     指定因為巫山桃生得到不良狀態《毒》的角色為對象。 <BR>
                     對象不能宣言解除《毒》，並且立即受到10%最大HP的傷害。 <BR>
                 </p>
@@ -976,8 +976,8 @@
                 <div class="skillTh clear">代價</div><div class="skillTd" style="width:265px;">代價傷害15+籤</div>
                 <br/>
 
-                <!-- 情緒獎勵 -->
-                <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">5</div>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">5</div>
                 <br/>
 
                 <!-- 取得限制 -->
@@ -987,7 +987,7 @@
                 <!-- 特技解說 -->
 
                 <!-- 效果 -->
-                <p class="skillFunction"><b>効果：</b>
+                <p class="skillFunction"><b>效果：</b>
                     指定因為巫山桃生得到不良狀態《毒》的一名角色。 <BR>
                     對象擲《毒》發作的傷害擲骰時，進行兩回擲骰取其高者。 <BR>
                     對象擲《毒》發作的解除檢定時，進行兩回擲骰取其低者。 <BR>
@@ -1015,8 +1015,8 @@
                             <div class="skillTh clear">代價</div><div class="skillTd" style="width:630px;">代價傷害60-[存在動物靈就-20、存在自然之靈就-20]</div>
                             <br/>
                                             
-                            <!-- 情緒獎勵 -->
-                            <div class="skillTh2 clear">情緒獎勵</div><div class="skillTd3">5</div>
+                            <!-- TP獎勵 -->
+                            <div class="skillTh2 clear">TP獎勵</div><div class="skillTd3">5</div>
                             <br/>
                             
                             <!-- 取得限制 -->
@@ -1026,7 +1026,7 @@
                         <!-- 特技解說 -->
                         
                             <!-- 效果 -->
-                            <p class="skillFunction"><b>効果：</b>
+                            <p class="skillFunction"><b>效果：</b>
                             以指定區域內所有敵方角色為對象，回合結束前得到以下效果： <BR>
                     ●行動、命中、迴避的達成值減去使用者本回合的行動點數 <BR>
                     ●無法使用防禦特技，受到傷害直接扣除生命力上限及等同的生命值 <BR>
