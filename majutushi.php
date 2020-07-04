@@ -1095,37 +1095,6 @@
                 <!-- 效果 -->
                 <p class="skillFunction"><b>效果：</b>
                     對目標造成《2D6》+ [本次支付代價+2]點傷害。 <BR>
-                    此要素須搭配攻擊類型、進攻類型或其他輔助要素。
-                </p>
-                <!-- 結尾 -->
-            </div>
-        </skillbox>
-        <skillbox>
-            <div class="skillWrap">
-
-                <!-- 特技名稱 -->
-                <h3 class="skillTitle">要素：傷害</h3>
-                <!-- 特技設定 -->
-                <!-- 分類 -->
-                <div class="skillTh clear">分類</div>
-                <div class="skillTd" style="width:265px;">特殊</div>
-                <br/>
-                <!-- 代價 -->
-                <div class="skillTh clear">代價</div>
-                <div class="skillTd" style="width:265px;">代價傷害1~［你的魔術師等級］</div>
-                <br/>
-                <!-- TP獎勵 -->
-                <div class="skillTh2 clear">TP獎勵</div>
-                <div class="skillTd3">0</div>
-                <br/>
-                <!-- 取得限制 -->
-                <div class="skillTh2">取得限制</div>
-                <div class="skillTd3">魔術構成</div>
-                <br/>
-                <!-- 特技解說 -->
-                <!-- 效果 -->
-                <p class="skillFunction"><b>效果：</b>
-                    對目標造成《2D6》+ [本次支付代價+2]點傷害。 <BR>
                     此要素須搭配攻擊類型或進攻類型。
                 </p>
                 <!-- 結尾 -->
@@ -1215,7 +1184,7 @@
                 <!-- 特技解說 -->
                 <!-- 效果 -->
                 <p class="skillFunction"><b>效果：</b>
-                    選擇近戰、射擊、精神其中一項，選擇後將無法更改。此「魔術構成」的分類成為「攻擊類型/(你選擇的分類)」。 <BR>
+                    選擇近戰、射擊、精神其中一項，選擇後將無法更改。此「魔術構成」的分類成為「進攻/(你選擇的分類)」。 <BR>
                     選擇近戰時，此要素的代價傷害減少1點。
                 </p>
                 <!-- 結尾 -->
@@ -1436,6 +1405,35 @@
             </div>
         </skillbox>
         <skillbox>
+            <div class="skillWrap">
+                <!-- 特技名稱 -->
+                <h3 class="skillTitle">要素：減益</h3>
+                <!-- 特技設定 -->
+                <!-- 分類 -->
+                <div class="skillTh clear">分類</div>
+                <div class="skillTd" style="width:265px;">特殊</div>
+                <br/>
+                <!-- 代價 -->
+                <div class="skillTh clear">代價</div>
+                <div class="skillTd" style="width:265px;">代價傷害2</div>
+                <br/>
+                <!-- TP獎勵 -->
+                <div class="skillTh2 clear">TP獎勵</div>
+                <div class="skillTd3">0</div>
+                <br/>
+                <!-- 取得限制 -->
+                <div class="skillTh2">取得限制</div>
+                <div class="skillTd3">魔術構成</div>
+                <br/>
+                <!-- 特技解說 -->
+                <!-- 效果 -->
+                <p class="skillFunction"><b>效果：</b>
+                    減少目標本回合一項戰鬥能力值《1D6》點。
+                </p>
+                <!-- 結尾 -->
+            </div>
+        </skillbox>
+        <skillbox>
             <div class="skillWrap_dividepoint">
                 <!-- 特技名稱 -->
                 <h3 class="skillTitle">要素：異常狀態</h3>
@@ -1500,35 +1498,7 @@
                 <!-- 結尾 -->
             </div>
         </skillbox>
-        <skillbox>
-            <div class="skillWrap">
-                <!-- 特技名稱 -->
-                <h3 class="skillTitle">要素：減益</h3>
-                <!-- 特技設定 -->
-                <!-- 分類 -->
-                <div class="skillTh clear">分類</div>
-                <div class="skillTd" style="width:265px;">特殊</div>
-                <br/>
-                <!-- 代價 -->
-                <div class="skillTh clear">代價</div>
-                <div class="skillTd" style="width:265px;">代價傷害2</div>
-                <br/>
-                <!-- TP獎勵 -->
-                <div class="skillTh2 clear">TP獎勵</div>
-                <div class="skillTd3">0</div>
-                <br/>
-                <!-- 取得限制 -->
-                <div class="skillTh2">取得限制</div>
-                <div class="skillTd3">魔術構成</div>
-                <br/>
-                <!-- 特技解說 -->
-                <!-- 效果 -->
-                <p class="skillFunction"><b>效果：</b>
-                    減少目標本回合一項戰鬥能力值《1D6》點。
-                </p>
-                <!-- 結尾 -->
-            </div>
-        </skillbox>
+
         <div id="clearleft"></div>
     </div>
 </div>
