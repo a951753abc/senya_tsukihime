@@ -668,7 +668,7 @@
                 <br/>
                 <!-- 取得限制 -->
                 <div class="skillTh2">取得限制</div>
-                <div class="skillTd3">隱密通路</div>
+                <div class="skillTd3">無</div>
                 <br/>
                 <!-- 特技解說 -->
                 <!-- 效果 -->
@@ -729,7 +729,7 @@
                 <br/>
                 <!-- 取得限制 -->
                 <div class="skillTh2">取得限制</div>
-                <div class="skillTd3">隱密通路</div>
+                <div class="skillTd3">無</div>
                 <br/>
                 <!-- 特技解說 -->
                 <!-- 效果 -->
